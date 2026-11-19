@@ -92,7 +92,7 @@ docs/       Legend image
 ## Rebuilding
 
 ```bash
-pip install pillow
+pip install -r requirements.txt
 python scripts/fetch_sources.py data/
 python scripts/build_kmz.py data/rmp kmz data/echo_major_npdes.csv data/eia_power_plants.csv data/echo_drinking_water.csv data/tri2024_facilities.csv
 ```
@@ -106,6 +106,10 @@ python scripts/build_kmz.py data/rmp kmz data/echo_major_npdes.csv data/eia_powe
 ## Disclaimer
 
 This is a compilation of public US government data for situational awareness and planning. Records can be outdated, incomplete or mislocated. Verify with the facility, local emergency management or the current ERG before acting on anything here. Inclusion on this map doesn't mean a facility is unsafe or vulnerable.
+
+## License
+
+Scripts are released under the [MIT License](LICENSE). Source data is public information from US federal agencies (EPA, EIA, DOT/PHMSA via PubChem) and is not subject to copyright. The EPA RMP export comes from the [Data Liberation Project](https://github.com/data-liberation-project/epa-rmp-spreadsheets).
 
 ## Facilities by state
 

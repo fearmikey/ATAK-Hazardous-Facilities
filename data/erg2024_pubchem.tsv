@@ -1,0 +1,2772 @@
+UN	Guide	Name	CID	Note
+-	112	Ammonium nitrate-fuel oil mixtures	-	
+-	112	Blasting agent, n.o.s.	-	
+-	112	Explosives, division 1.1, 1.2, 1.3 or 1.5	-	
+-	114	Explosives, division 1.4 or 1.6	-	
+1001	116	Acetylene, dissolved	6326	
+1002	122	Air, compressed	-	
+1003	122	Air, refrigerated liquid (cryogenic liquid)	-	
+1005	125	Ammonia, anhydrous	222	Toxic/poison by inhalation (TIH/PIH)
+1005	125	Anhydrous ammonia	222	Toxic/poison by inhalation (TIH/PIH)
+1006	120	Argon	23968	
+1006	120	Argon, compressed	23968	
+1008	125	Boron trifluoride	6356	Toxic/poison by inhalation (TIH/PIH)
+1008	125	Boron trifluoride, compressed	6356	Toxic/poison by inhalation (TIH/PIH)
+1009	126	Bromotrifluoromethane	6384	
+1009	126	Refrigerant gas R-13B1	6384	
+1010	116P	Butadienes, stabilized	-	
+1010	116P	Butadienes and hydrocarbon mixture, stabilized	-	
+1011	115	Butane	7843	
+1012	115	Butylene	6435908	
+1013	120	Carbon dioxide	280	
+1013	120	Carbon dioxide, compressed	280	
+1016	119	Carbon monoxide, compressed	281	Toxic/poison by inhalation (TIH/PIH)
+1017	124	Chlorine	24526	Toxic/poison by inhalation (TIH/PIH)
+1018	126	Chlorodifluoromethane	6372	
+1018	126	Refrigerant gas R-22	6372	
+1020	126	Chloropentafluoroethane	6430	
+1020	126	Refrigerant gas R-115	6430	
+1021	126	1-Chloro-1,2,2,2-tetrafluoroethane	17822	
+1021	126	Refrigerant gas R-124	17822	
+1022	126	Chlorotrifluoromethane	6392	
+1022	126	Refrigerant gas R-13	6392	
+1023	119	Coal gas, compressed	-	
+1026	119	Cyanogen	9999	Toxic/poison by inhalation (TIH/PIH)
+1027	115	Cyclopropane	6351	
+1028	126	Dichlorodifluoromethane	6391	
+1028	126	Refrigerant gas R-12	6391	
+1029	126	Dichlorofluoromethane	6370	
+1029	126	Refrigerant gas R-21	6370	
+1030	115	1,1-Difluoroethane	6368	
+1030	115	Refrigerant gas R-152a	6368	
+1032	118	Dimethylamine, anhydrous	674	
+1033	115	Dimethyl ether	8254	
+1035	115	Ethane	6324	
+1035	115	Ethane, compressed	6324	
+1036	118	Ethylamine	6341	
+1037	115	Ethyl chloride	6337	
+1038	115	Ethylene, refrigerated liquid (cryogenic liquid)	6325	
+1039	115	Ethyl methyl ether	10903	
+1039	115	Methyl ethyl ether	10903	
+1040	119P	Ethylene oxide	6354	Toxic/poison by inhalation (TIH/PIH)
+1040	119P	Ethylene oxide with nitrogen	-	Toxic/poison by inhalation (TIH/PIH)
+1041	115	Ethylene oxide and carbon dioxide mixture, with more than 9% but not more than 87% ethylene oxide	-	
+1043	125	Fertilizer, ammoniating solution, with free ammonia	-	
+1044	126	Fire extinguishers with compressed or liquefied gas	-	
+1045	124	Fluorine, compressed	24524	Toxic/poison by inhalation (TIH/PIH)
+1046	120	Helium, compressed	23987	
+1048	125	Hydrogen bromide, anhydrous	260	Toxic/poison by inhalation (TIH/PIH)
+1049	115	Hydrogen, compressed	783	
+1050	125	Hydrogen chloride, anhydrous	313	Toxic/poison by inhalation (TIH/PIH)
+1051	117P	Hydrogen cyanide, stabilized	768	Toxic/poison by inhalation (TIH/PIH)
+1052	125	Hydrogen fluoride, anhydrous	14917	Toxic/poison by inhalation (TIH/PIH)
+1053	117	Hydrogen sulfide	402	Toxic/poison by inhalation (TIH/PIH)
+1053	117	Hydrogen sulphide	402	Toxic/poison by inhalation (TIH/PIH)
+1055	115	Isobutylene	8255	
+1056	120	Krypton, compressed	5416	
+1057	115	Lighter refills containing flammable gas	-	
+1057	115	Lighters containing flammable gas	-	
+1057	128	Lighters, non-pressurized, containing flammable liquid	-	
+1058	120	Liquefied gases, non-flammable, charged with nitrogen, carbon dioxide or air	-	
+1060	116P	Methylacetylene and propadiene mixture, stabilized	-	
+1061	118	Methylamine, anhydrous	6329	Toxic/poison by inhalation (TIH/PIH)
+1062	123	Methyl bromide	6323	Toxic/poison by inhalation (TIH/PIH)
+1063	115	Methyl chloride	6327	
+1063	115	Refrigerant gas R-40	6327	
+1064	117	Methyl mercaptan	878	Toxic/poison by inhalation (TIH/PIH)
+1065	120	Neon, compressed	23935	
+1066	120	Nitrogen, compressed	947	
+1067	124	Dinitrogen tetroxide	25352	Toxic/poison by inhalation (TIH/PIH)
+1067	124	Nitrogen dioxide	3032552	Toxic/poison by inhalation (TIH/PIH)
+1069	125	Nitrosyl chloride	17601	Toxic/poison by inhalation (TIH/PIH)
+1070	122	Nitrous oxide	948	
+1070	122	Nitrous oxide, compressed	948	
+1071	119	Oil gas, compressed	-	
+1072	122	Oxygen, compressed	977	
+1073	122	Oxygen, refrigerated liquid (cryogenic liquid)	977	
+1075	115	Butane	7843	
+1075	115	Butylene	6435908	
+1075	115	Isobutane	6360	
+1075	115	Isobutylene	8255	
+1075	115	Liquefied petroleum gas	-	
+1075	115	LPG	-	
+1075	115	Petroleum gases, liquefied	-	
+1075	115	Propane	6334	
+1075	115	Propylene	8252	
+1076	125	Phosgene	6371	Toxic/poison by inhalation (TIH/PIH)
+1077	115	Propylene	8252	
+1078	126	Refrigerant gas, n.o.s.	-	
+1079	125	Sulfur dioxide	1119	Toxic/poison by inhalation (TIH/PIH)
+1079	125	Sulphur dioxide	1119	Toxic/poison by inhalation (TIH/PIH)
+1080	126	Sulfur hexafluoride	17358	
+1080	126	Sulphur hexafluoride	17358	
+1081	116P	Tetrafluoroethylene, stabilized	8301	
+1082	119P	Refrigerant gas R-1113	6594	Toxic/poison by inhalation (TIH/PIH)
+1082	119P	Trifluorochloroethylene, stabilized	6594	Toxic/poison by inhalation (TIH/PIH)
+1083	118	Trimethylamine, anhydrous	1146	
+1085	116P	Vinyl bromide, stabilized	11641	
+1086	116P	Vinyl chloride, stabilized	6338	
+1087	116P	Vinyl methyl ether, stabilized	7861	
+1088	127	Acetal	7765	
+1089	129P	Acetaldehyde	177	
+1090	127	Acetone	180	
+1091	127	Acetone oils	-	
+1092	131P	Acrolein, stabilized	7847	Toxic/poison by inhalation (TIH/PIH)
+1093	131P	Acrylonitrile, stabilized	7855	Toxic/poison by inhalation (TIH/PIH)
+1098	131	Allyl alcohol	7858	Toxic/poison by inhalation (TIH/PIH)
+1099	131P	Allyl bromide	7841	
+1100	131P	Allyl chloride	7850	
+1104	129	Amyl acetates	12348	
+1105	129	Pentanols	6276	
+1106	132	Amylamine	8060	
+1107	129	Amyl chloride	10977	
+1108	128	n-Amylene	10553	
+1108	128	1-Pentene	8004	
+1109	129	Amyl formates	-	
+1110	127	n-Amyl methyl ketone	8051	
+1110	127	Methyl amyl ketone	8051	
+1111	130	Amyl mercaptan	8067	
+1112	128	Amyl nitrate	61250	
+1113	129	Amyl nitrite	8053	
+1114	130	Benzene	241	
+1120	129	Butanols	263	
+1123	129	Butyl acetates	7758	
+1125	132	n-Butylamine	8007	
+1126	130	1-Bromobutane	8002	
+1126	130	n-Butyl bromide	8002	
+1127	130	n-Butyl chloride	8005	
+1127	130	Chlorobutanes	-	
+1128	129	n-Butyl formate	11614	
+1129	129P	Butyraldehyde	261	
+1130	128	Camphor oil	-	
+1131	131	Carbon bisulfide	6348	
+1131	131	Carbon disulfide	6348	
+1131	131	Carbon disulphide	6348	
+1133	128	Adhesives (flammable)	-	
+1134	130	Chlorobenzene	7964	
+1135	131	Ethylene chlorohydrin	34	Toxic/poison by inhalation (TIH/PIH)
+1136	128	Coal tar distillates, flammable	-	
+1139	127	Coating solution	-	
+1143	131P	Crotonaldehyde	447466	Toxic/poison by inhalation (TIH/PIH)
+1143	131P	Crotonaldehyde, stabilized	447466	Toxic/poison by inhalation (TIH/PIH)
+1144	128	Crotonylene	10419	
+1145	128	Cyclohexane	8078	
+1146	128	Cyclopentane	9253	
+1147	130	Decahydronaphthalene	7044	
+1148	129	Diacetone alcohol	31256	
+1149	128	Butyl ethers	-	
+1149	128	Dibutyl ethers	-	
+1150	130P	1,2-Dichloroethylene	10900	
+1152	130	Dichloropentanes	522765	
+1153	127	Ethylene glycol diethyl ether	12375	
+1154	132	Diethylamine	8021	
+1155	127	Diethyl ether	3283	
+1155	127	Ethyl ether	3283	
+1156	127	Diethyl ketone	7288	
+1157	128	Diisobutyl ketone	7958	
+1158	132	Diisopropylamine	7912	
+1159	127	Diisopropyl ether	7914	
+1160	132	Dimethylamine, aqueous solution	674	
+1160	132	Dimethylamine, solution	674	
+1161	129	Dimethyl carbonate	12021	
+1162	155	Dimethyldichlorosilane	6398	Water-reactive material (WR)
+1163	131	Dimethylhydrazine, unsymmetrical	-	Toxic/poison by inhalation (TIH/PIH)
+1164	130	Dimethyl sulfide	1068	
+1164	130	Dimethyl sulphide	1068	
+1165	127	Dioxane	31275	
+1166	127	Dioxolane	12586	
+1167	128P	Divinyl ether, stabilized	8024	
+1169	127	Extracts, aromatic, liquid	-	
+1170	127	Ethanol	702	
+1170	127	Ethanol, solution	702	
+1170	127	Ethyl alcohol	702	
+1170	127	Ethyl alcohol, solution	702	
+1171	127	Ethylene glycol monoethyl ether	8076	
+1172	129	Ethylene glycol monoethyl ether acetate	8095	
+1173	129	Ethyl acetate	8857	
+1175	130	Ethylbenzene	7500	
+1176	129	Ethyl borate	9009	
+1177	130	2-Ethylbutyl acetate	61448	
+1178	130	2-Ethylbutyraldehyde	7359	
+1179	127	Ethyl butyl ether	12355	
+1180	130	Ethyl butyrate	7762	
+1181	155	Ethyl chloroacetate	7751	
+1182	155	Ethyl chloroformate	10928	Toxic/poison by inhalation (TIH/PIH)
+1183	139	Ethyldichlorosilane	15706	Water-reactive material (WR)
+1184	131	Ethylene dichloride	11	
+1185	131P	Ethyleneimine, stabilized	9033	Toxic/poison by inhalation (TIH/PIH)
+1188	127	Ethylene glycol monomethyl ether	8019	
+1189	129	Ethylene glycol monomethyl ether acetate	8054	
+1190	129	Ethyl formate	8025	
+1191	129	Ethylhexaldehyde	31241	
+1191	129	Octyl aldehydes	454	
+1192	129	Ethyl lactate	7344	
+1193	127	Ethyl methyl ketone	6569	
+1193	127	Methyl ethyl ketone	6569	
+1194	131	Ethyl nitrite, solution	8026	
+1195	129	Ethyl propionate	7749	
+1196	155	Ethyltrichlorosilane	8260	Water-reactive material (WR)
+1197	127	Extracts, flavoring, liquid	-	
+1197	127	Extracts, flavouring, liquid	-	
+1197	127	Extracts, liquid	-	
+1198	132	Formaldehyde, solution, flammable	712	
+1198	132	Formalin (flammable)	712	
+1199	153P	Furaldehydes	7362	
+1201	127	Fusel oil	-	
+1202	128	Diesel fuel	-	
+1202	128	Gas oil	-	
+1202	128	Heating oil, light	-	
+1203	128	Gasoline	-	
+1203	128	Motor spirit	-	
+1203	128	Petrol	-	
+1204	127	Nitroglycerin, solution in alcohol, with not more than 1% nitroglycerin	4510	
+1206	128	Heptanes	8900	
+1207	130	Hexaldehyde	6184	
+1208	128	Hexanes	8058	
+1208	128	Neohexane	6403	
+1210	129	Printing ink, flammable	-	
+1210	129	Printing ink related material, flammable	-	
+1212	129	Isobutanol	6560	
+1212	129	Isobutyl alcohol	6560	
+1213	129	Isobutyl acetate	8038	
+1214	132	Isobutylamine	6558	
+1216	128	Isooctenes	21122	
+1218	130P	Isoprene, stabilized	6557	
+1219	129	Isopropanol	3776	
+1219	129	Isopropyl alcohol	3776	
+1220	129	Isopropyl acetate	7915	
+1221	132	Isopropylamine	6363	
+1222	130	Isopropyl nitrate	15575	
+1223	128	Kerosene	-	
+1224	127	Ketones, liquid, n.o.s.	-	
+1228	131	Mercaptan mixture, liquid, flammable, poisonous, n.o.s.	-	
+1228	131	Mercaptan mixture, liquid, flammable, toxic, n.o.s.	-	
+1228	131	Mercaptans, liquid, flammable, poisonous, n.o.s.	402	
+1228	131	Mercaptans, liquid, flammable, toxic, n.o.s.	402	
+1229	129	Mesityl oxide	8858	
+1230	131	Methanol	887	
+1230	131	Methyl alcohol	887	
+1231	129	Methyl acetate	6584	
+1233	130	Methylamyl acetate	7959	
+1234	127	Methylal	8020	
+1235	132	Methylamine, aqueous solution	6329	
+1237	129	Methyl butyrate	12180	
+1238	155	Methyl chloroformate	6586	Toxic/poison by inhalation (TIH/PIH)
+1239	131	Methyl chloromethyl ether	7864	Toxic/poison by inhalation (TIH/PIH)
+1242	139	Methyldichlorosilane	6376	Water-reactive material (WR)
+1243	129	Methyl formate	7865	
+1244	131	Methylhydrazine	6061	Toxic/poison by inhalation (TIH/PIH)
+1245	127	Methyl isobutyl ketone	7909	
+1246	127P	Methyl isopropenyl ketone, stabilized	13143	
+1247	129P	Methyl methacrylate monomer, stabilized	6658	
+1248	129	Methyl propionate	11124	
+1249	127	Methyl propyl ketone	7895	
+1250	155	Methyltrichlorosilane	6399	Water-reactive material (WR)
+1251	131P	Methyl vinyl ketone, stabilized	6570	Toxic/poison by inhalation (TIH/PIH)
+1259	131	Nickel carbonyl	26039	Toxic/poison by inhalation (TIH/PIH)
+1261	129	Nitromethane	6375	
+1262	128	Isooctane	10907	
+1262	128	Octanes	-	
+1263	128	Paint (flammable)	-	
+1263	128	Paint related material (flammable)	-	
+1264	129	Paraldehyde	31264	
+1265	128	Isopentane	6556	
+1265	128	Pentanes	8003	
+1266	127	Perfumery products, with flammable solvents	-	
+1267	128	Petroleum crude oil	-	
+1268	128	Petroleum distillates, n.o.s.	-	
+1268	128	Petroleum products, n.o.s.	-	
+1270	128	Petroleum oil	-	
+1272	129	Pine oil	-	
+1274	129	n-Propanol	1031	
+1274	129	Propyl alcohol, normal	1031	
+1275	129P	Propionaldehyde	527	
+1276	129	n-Propyl acetate	7997	
+1277	132	Propylamine	7852	
+1278	129	1-Chloropropane	10899	
+1278	129	Propyl chloride	10899	
+1279	130	1,2-Dichloropropane	6564	
+1280	127P	Propylene oxide	6378	
+1281	129	Propyl formates	8073	
+1282	129	Pyridine	1049	
+1286	127	Rosin oil	-	
+1287	127	Rubber solution	-	
+1288	128	Shale oil	-	
+1289	132	Sodium methylate, solution in alcohol	10942334	
+1292	129	Ethyl silicate	6517	
+1292	129	Tetraethyl silicate	6517	
+1293	127	Tinctures, medicinal	-	
+1294	130	Toluene	1140	
+1295	139	Trichlorosilane	24811	Water-reactive material (WR)
+1296	132	Triethylamine	8471	
+1297	132	Trimethylamine, aqueous solution	1146	
+1298	155	Trimethylchlorosilane	6397	Water-reactive material (WR)
+1299	128	Turpentine	-	
+1300	128	Turpentine substitute	-	
+1301	129P	Vinyl acetate, stabilized	7904	
+1302	127P	Vinyl ethyl ether, stabilized	8023	
+1303	130P	Vinylidene chloride, stabilized	6366	
+1304	127P	Vinyl isobutyl ether, stabilized	7992	
+1305	155P	Vinyltrichlorosilane	6413	Water-reactive material (WR)
+1306	129	Wood preservatives, liquid	-	
+1307	130	Xylenes	-	
+1308	170	Zirconium suspended in a flammable liquid	-	
+1308	170	Zirconium suspended in a liquid (flammable)	-	
+1309	170	Aluminum powder, coated	5359268	
+1310	113	Ammonium picrate, wetted with not less than 10% water	8577	
+1312	133	Borneol	64685	
+1313	133	Calcium resinate	-	
+1314	133	Calcium resinate, fused	-	
+1318	133	Cobalt resinate, precipitated	12598188	
+1320	113	Dinitrophenol, wetted with not less than 15% water	1493	
+1321	113	Dinitrophenolates, wetted with not less than 15% water	-	
+1322	113	Dinitroresorcinol, wetted with not less than 15% water	10613	
+1323	170	Ferrocerium	-	
+1324	133	Films, nitrocellulose base	-	
+1325	133	Flammable solid, organic, n.o.s.	-	
+1325	133	Fusee (railway or highway)	-	
+1326	170	Hafnium powder, wetted with not less than 25% water	23986	
+1327	133	Bhusa, wet, damp or contaminated with oil	-	
+1327	133	Hay, wet, damp or contaminated with oil	-	
+1327	133	Straw, wet, damp or contaminated with oil	-	
+1328	133	Hexamethylenetetramine	4101	
+1330	133	Manganese resinate	-	
+1331	133	Matches, "strike anywhere"	-	
+1332	133	Metaldehyde	61021	
+1333	170	Cerium, slabs, ingots or rods	-	
+1334	133	Naphthalene, crude	-	
+1334	133	Naphthalene, refined	-	
+1336	113	Nitroguanidine, wetted with not less than 20% water	86287517	
+1336	113	Picrite, wetted with not less than 20% water	86287517	
+1337	113	Nitrostarch, wetted with not less than 20% water	-	
+1338	133	Phosphorus, amorphous	6432095	
+1338	133	Red phosphorus	5462309	
+1339	139	Phosphorus heptasulfide, free from yellow and white phosphorus	-	
+1339	139	Phosphorus heptasulphide, free from yellow and white phosphorus	-	
+1340	139	Phosphorus pentasulfide, free from yellow and white phosphorus	-	Water-reactive material (WR)
+1340	139	Phosphorus pentasulphide, free from yellow and white phosphorus	-	Water-reactive material (WR)
+1341	139	Phosphorus sesquisulfide, free from yellow and white phosphorus	-	
+1341	139	Phosphorus sesquisulphide, free from yellow and white phosphorus	-	
+1343	139	Phosphorus trisulfide, free from yellow and white phosphorus	-	
+1343	139	Phosphorus trisulphide, free from yellow and white phosphorus	-	
+1344	113	Picric acid, wetted with not less than 30% water	6954	
+1344	113	Trinitrophenol, wetted with not less than 30% water	6954	
+1345	133	Rubber scrap, powdered or granulated	-	
+1345	133	Rubber shoddy, powdered or granulated	-	
+1346	170	Silicon powder, amorphous	5461123	
+1347	113	Silver picrate, wetted with not less than 30% water	8976	
+1348	113	Sodium dinitro-o-cresolate, wetted with not less than 15% water	33129	
+1349	113	Sodium picramate, wetted with not less than 20% water	5362461	
+1350	133	Sulfur	5362487	
+1350	133	Sulphur	5362487	
+1352	170	Titanium powder, wetted with not less than 25% water	23963	
+1353	133	Fabrics impregnated with weakly nitrated nitrocellulose, n.o.s.	-	
+1353	133	Fibers impregnated with weakly nitrated nitrocellulose, n.o.s.	-	
+1353	133	Fibres impregnated with weakly nitrated nitrocellulose, n.o.s.	-	
+1354	113	Trinitrobenzene, wetted with not less than 30% water	7434	
+1355	113	Trinitrobenzoic acid, wetted with not less than 30% water	8518	
+1356	113	TNT, wetted with not less than 30% water	8376	
+1356	113	Trinitrotoluene, wetted with not less than 30% water	8376	
+1357	113	Urea nitrate, wetted with not less than 20% water	31295	
+1358	170	Zirconium powder, wetted with not less than 25% water	23995	
+1360	139	Calcium phosphide	14780	Water-reactive material (WR)
+1361	133	Carbon, animal or vegetable origin	-	
+1361	133	Charcoal	5462310	
+1362	133	Carbon, activated	5462310	
+1363	135	Copra	-	
+1364	133	Cotton waste, oily	-	
+1365	133	Cotton	-	
+1365	133	Cotton, wet	-	
+1369	135	p-Nitrosodimethylaniline	8749	
+1372	133	Fibers, animal or vegetable, burnt, wet or damp	-	
+1372	133	Fibres, animal or vegetable, burnt, wet or damp	-	
+1373	133	Fabrics, animal or vegetable or synthetic, n.o.s. with oil	-	
+1373	133	Fibers, animal or vegetable or synthetic, n.o.s. with oil	-	
+1373	133	Fibres, animal or vegetable or synthetic, n.o.s. with oil	-	
+1374	133	Fish meal, unstabilized	-	
+1374	133	Fish scrap, unstabilized	-	
+1376	135	Iron oxide, spent	5327711	
+1376	135	Iron sponge, spent	5327711	
+1378	170	Metal catalyst, wetted	-	
+1379	133	Paper, unsaturated oil treated	-	
+1380	135	Pentaborane	15764013	Toxic/poison by inhalation (TIH/PIH)
+1381	136	Phosphorus, white, dry or under water or in solution	-	
+1381	136	Phosphorus, yellow, dry or under water or in solution	-	
+1381	136	White phosphorus, dry or under water or in solution	-	
+1381	136	Yellow phosphorus, dry or under water or in solution	-	
+1382	135	Potassium sulfide, anhydrous	162263	
+1382	135	Potassium sulfide, with less than 30% water of crystallization	162263	
+1382	135	Potassium sulphide, anhydrous	162263	
+1382	135	Potassium sulphide, with less than 30% water of crystallization	162263	
+1383	135	Aluminum powder, pyrophoric	-	
+1383	135	Pyrophoric alloy, n.o.s.	-	
+1383	135	Pyrophoric metal, n.o.s.	-	
+1384	135	Sodium dithionite	24489	Water-reactive material (WR)
+1384	135	Sodium hydrosulfite	24489	Water-reactive material (WR)
+1384	135	Sodium hydrosulphite	24489	Water-reactive material (WR)
+1385	135	Sodium sulfide, anhydrous	237873	
+1385	135	Sodium sulfide, with less than 30% water of crystallization	237873	
+1385	135	Sodium sulphide, anhydrous	14804	
+1385	135	Sodium sulphide, with less than 30% water of crystallization	14804	
+1386	135	Seed cake, with more than 1.5% oil and not more than 11% moisture	-	
+1387	133	Wool waste, wet	-	
+1389	138	Alkali metal amalgam, liquid	-	
+1390	139	Alkali metal amides	-	Water-reactive material (WR)
+1391	138	Alkali metal dispersion	-	
+1391	138	Alkaline earth metal dispersion	-	
+1392	138	Alkaline earth metal amalgam, liquid	-	
+1393	138	Alkaline earth metal alloy, n.o.s.	-	
+1394	138	Aluminum carbide	16685054	
+1395	139	Aluminum ferrosilicon powder	-	
+1396	138	Aluminum powder, uncoated	5359268	
+1397	139	Aluminum phosphide	16126812	Water-reactive material (WR)
+1398	138	Aluminum silicon powder, uncoated	-	
+1400	138	Barium	5355457	
+1401	138	Calcium	5460341	
+1402	138	Calcium carbide	-	
+1403	138	Calcium cyanamide, with more than 0.1% calcium carbide	56955933	
+1404	138	Calcium hydride	3033859	
+1405	138	Calcium silicide	-	
+1407	138	Caesium	5354618	
+1407	138	Cesium	5354618	
+1408	139	Ferrosilicon	91886646	
+1409	138	Metal hydrides, water-reactive, n.o.s.	-	
+1410	138	Lithium aluminum hydride	28112	
+1411	138	Lithium aluminum hydride, ethereal	28112	
+1413	138	Lithium borohydride	4148881	
+1414	138	Lithium hydride	62714	
+1415	138	Lithium	3028194	
+1417	138	Lithium silicon	53470676	
+1418	138	Magnesium alloys powder	-	
+1418	138	Magnesium powder	5462224	
+1419	139	Magnesium aluminum phosphide	-	Water-reactive material (WR)
+1420	138	Potassium metal alloys, liquid	-	
+1421	138	Alkali metal alloy, liquid, n.o.s.	-	
+1422	138	Potassium sodium alloys, liquid	-	
+1423	138	Rubidium	5357696	
+1426	138	Sodium borohydride	4311764	
+1427	138	Sodium hydride	24758	
+1428	138	Sodium	5360545	
+1431	138	Sodium methylate, dry	10942334	
+1432	139	Sodium phosphide	61547	Water-reactive material (WR)
+1433	139	Stannic phosphides	44144463	
+1435	138	Zinc ashes	23994	
+1435	138	Zinc dross	-	
+1435	138	Zinc residue	-	
+1435	138	Zinc skimmings	-	
+1436	138	Zinc dust	23994	
+1436	138	Zinc powder	23994	
+1437	138	Zirconium hydride	4137802	
+1438	140	Aluminum nitrate	26053	
+1439	141	Ammonium dichromate	24600	
+1442	143	Ammonium perchlorate	24639	
+1444	140	Ammonium persulfate	62648	
+1444	140	Ammonium persulphate	62648	
+1445	141	Barium chlorate, solid	26059	
+1446	141	Barium nitrate	24798	
+1447	141	Barium perchlorate, solid	61623	
+1448	141	Barium permanganate	24587	
+1449	141	Barium peroxide	14773	
+1450	140	Bromates, inorganic, n.o.s.	-	
+1451	140	Caesium nitrate	62674	
+1451	140	Cesium nitrate	62674	
+1452	140	Calcium chlorate	24978	
+1453	140	Calcium chlorite	61757	
+1454	140	Calcium nitrate	24963	
+1455	140	Calcium perchlorate	61629	
+1456	140	Calcium permanganate	24959	
+1457	140	Calcium peroxide	14779	
+1458	140	Chlorate and borate mixture	-	
+1459	140	Chlorate and magnesium chloride mixture, solid	-	
+1461	140	Chlorates, inorganic, n.o.s.	-	
+1462	143	Chlorites, inorganic, n.o.s.	-	
+1463	141	Chromium trioxide, anhydrous	14915	
+1465	140	Didymium nitrate	-	
+1466	140	Ferric nitrate	25251	
+1467	143	Guanidine nitrate	10481	
+1469	141	Lead nitrate	24924	
+1470	141	Lead perchlorate, solid	61655	
+1471	140	Lithium hypochlorite, dry	23665767	
+1471	140	Lithium hypochlorite mixture	23665767	
+1472	143	Lithium peroxide	25489	
+1473	140	Magnesium bromate	61750	
+1474	140	Magnesium nitrate	25212	
+1475	140	Magnesium perchlorate	24840	
+1476	140	Magnesium peroxide	61745	
+1477	140	Nitrates, inorganic, n.o.s.	-	
+1479	140	Oxidizing solid, n.o.s.	-	
+1481	140	Perchlorates, inorganic, n.o.s.	-	
+1482	140	Permanganates, inorganic, n.o.s.	-	
+1483	140	Peroxides, inorganic, n.o.s.	-	
+1484	140	Potassium bromate	23673461	
+1485	140	Potassium chlorate	6426889	
+1486	140	Potassium nitrate	24434	
+1487	140	Potassium nitrate and sodium nitrite mixture	-	
+1488	140	Potassium nitrite	516910	
+1489	140	Potassium perchlorate	516900	
+1490	140	Potassium permanganate	516875	
+1491	144	Potassium peroxide	28202	
+1492	140	Potassium persulfate	24412	
+1492	140	Potassium persulphate	24412	
+1493	140	Silver nitrate	24470	
+1494	140	Sodium bromate	23668195	
+1495	140	Sodium chlorate	516902	
+1496	143	Sodium chlorite	23668197	
+1498	140	Sodium nitrate	24268	
+1499	140	Sodium nitrate and potassium nitrate mixture	-	
+1500	141	Sodium nitrite	23668193	
+1502	140	Sodium perchlorate	522606	
+1503	140	Sodium permanganate	23673458	
+1504	144	Sodium peroxide	14803	
+1505	140	Sodium persulfate	62655	
+1505	140	Sodium persulphate	62655	
+1506	143	Strontium chlorate	24641	
+1507	140	Strontium nitrate	24848	
+1508	140	Strontium perchlorate	61607	
+1509	143	Strontium peroxide	14807	
+1510	143	Tetranitromethane	10509	Toxic/poison by inhalation (TIH/PIH)
+1511	140	Urea hydrogen peroxide	31294	
+1512	140	Zinc ammonium nitrite	62221	
+1513	140	Zinc chlorate	25206	
+1514	140	Zinc nitrate	24518	
+1515	140	Zinc permanganate	31896	
+1516	143	Zinc peroxide	14809	
+1517	113	Zirconium picramate, wetted with not less than 20% water	11979385	
+1541	156	Acetone cyanohydrin, stabilized	6406	Water-reactive material (WR)
+1544	151	Alkaloids, solid, n.o.s. (poisonous)	-	
+1544	151	Alkaloid salts, solid, n.o.s. (poisonous)	-	
+1545	131	Allyl isothiocyanate, stabilized	5971	
+1546	151	Ammonium arsenate	24574	
+1547	153	Aniline	6115	
+1548	153	Aniline hydrochloride	8870	
+1549	157	Antimony compound, inorganic, solid, n.o.s.	-	
+1550	151	Antimony lactate	62137	
+1551	151	Antimony potassium tartrate	73415808	
+1553	154	Arsenic acid, liquid	234	
+1554	154	Arsenic acid, solid	234	
+1555	151	Arsenic bromide	24569	
+1556	152	Arsenic compound, liquid, n.o.s.	-	
+1556	152	Methyldichloroarsine	61142	Toxic/poison by inhalation (TIH/PIH)
+1557	152	Arsenic compound, solid, n.o.s.	-	
+1558	152	Arsenic	5359596	
+1559	151	Arsenic pentoxide	14771	
+1560	157	Arsenic chloride	24570	Toxic/poison by inhalation (TIH/PIH)
+1560	157	Arsenic trichloride	24570	Toxic/poison by inhalation (TIH/PIH)
+1561	151	Arsenic trioxide	14888	
+1562	152	Arsenical dust	-	
+1564	154	Barium compound, n.o.s.	-	
+1565	157	Barium cyanide	6093184	
+1566	154	Beryllium compound, n.o.s.	5460467	
+1567	134	Beryllium powder	5460467	
+1569	131	Bromoacetone	11715	Toxic/poison by inhalation (TIH/PIH)
+1570	151	Brucine	442021	
+1571	113	Barium azide, wetted with not less than 50% water	62728	
+1572	151	Cacodylic acid	2513	
+1573	151	Calcium arsenate	24501	
+1574	151	Calcium arsenate and calcium arsenite mixture, solid	-	
+1575	157	Calcium cyanide	6093192	
+1577	153	Chlorodinitrobenzenes, liquid	33096	
+1578	152	Chloronitrobenzenes, solid	-	
+1579	153	4-Chloro-o-toluidine hydrochloride, solid	18487	
+1580	154	Chloropicrin	6423	Toxic/poison by inhalation (TIH/PIH)
+1581	123	Chloropicrin and methyl bromide mixture	-	Toxic/poison by inhalation (TIH/PIH)
+1582	119	Chloropicrin and methyl chloride mixture	-	Toxic/poison by inhalation (TIH/PIH)
+1583	154	Chloropicrin mixture, n.o.s.	6423	Toxic/poison by inhalation (TIH/PIH)
+1585	151	Copper acetoarsenite	22833492	
+1586	151	Copper arsenite	170843430	
+1587	151	Copper cyanide	11009	
+1588	157	Cyanides, inorganic, solid, n.o.s.	-	
+1589	125	Cyanogen chloride, stabilized	10477	Toxic/poison by inhalation (TIH/PIH)
+1590	153	Dichloroanilines, liquid	11844	
+1591	152	o-Dichlorobenzene	7239	
+1593	160	Dichloromethane	6344	
+1593	160	Methylene chloride	6344	
+1594	152	Diethyl sulfate	6163	
+1594	152	Diethyl sulphate	6163	
+1595	156	Dimethyl sulfate	6497	Toxic/poison by inhalation (TIH/PIH)
+1595	156	Dimethyl sulphate	6497	Toxic/poison by inhalation (TIH/PIH)
+1596	153	Dinitroanilines	12068	
+1597	152	Dinitrobenzenes, liquid	156614059	
+1598	153	Dinitro-o-cresol	3032394	
+1599	153	Dinitrophenol, solution	1493	
+1600	152	Dinitrotoluenes, molten	-	
+1601	151	Disinfectant, solid, poisonous, n.o.s.	-	
+1601	151	Disinfectant, solid, toxic, n.o.s.	-	
+1602	151	Dye, liquid, poisonous, n.o.s.	2189414	
+1602	151	Dye, liquid, toxic, n.o.s.	2189414	
+1602	151	Dye intermediate, liquid, poisonous, n.o.s.	-	
+1602	151	Dye intermediate, liquid, toxic, n.o.s.	-	
+1603	155	Ethyl bromoacetate	7748	
+1604	132	Ethylenediamine	3301	
+1605	154	Ethylene dibromide	7839	Toxic/poison by inhalation (TIH/PIH)
+1606	151	Ferric arsenate	61477	
+1607	151	Ferric arsenite	62222	
+1608	151	Ferrous arsenate	24938	
+1611	151	Hexaethyl tetraphosphate	12960	
+1612	123	Hexaethyl tetraphosphate and compressed gas mixture	-	Toxic/poison by inhalation (TIH/PIH)
+1613	154	Hydrocyanic acid, aqueous solution, with less than 5% hydrogen cyanide	768	
+1613	154	Hydrocyanic acid, aqueous solution, with not more than 20% hydrogen cyanide	768	Toxic/poison by inhalation (TIH/PIH)
+1613	154	Hydrogen cyanide, aqueous solution, with not more than 20% hydrogen cyanide	768	Toxic/poison by inhalation (TIH/PIH)
+1614	152	Hydrogen cyanide, stabilized (absorbed)	768	Toxic/poison by inhalation (TIH/PIH)
+1616	151	Lead acetate	-	
+1617	151	Lead arsenates	-	
+1618	151	Lead arsenites	-	
+1620	151	Lead cyanide	61139	
+1621	151	London purple	-	
+1622	151	Magnesium arsenate	24943	
+1623	151	Mercuric arsenate	90476459	
+1624	154	Mercuric chloride	24085	
+1625	141	Mercuric nitrate	24864	
+1626	157	Mercuric potassium cyanide	11585	
+1627	141	Mercurous nitrate	25247	
+1629	151	Mercury acetate	15337	
+1630	151	Mercury ammonium chloride	3032553	
+1631	154	Mercury benzoate	11407	
+1634	154	Mercury bromides	-	
+1636	154	Mercury cyanide	11591	
+1637	151	Mercury gluconate	45473	
+1638	151	Mercury iodide	24541	
+1639	151	Mercury nucleate	44144408	
+1640	151	Mercury oleate	6433251	
+1641	151	Mercury oxide	-	
+1642	151	Mercury oxycyanide, desensitized	56843208	
+1643	151	Mercury potassium iodide	24542	
+1644	151	Mercury salicylate	16682982	
+1645	151	Mercury sulfate	24544	
+1645	151	Mercury sulphate	24544	
+1646	151	Mercury thiocyanate	11615	
+1647	151	Methyl bromide and ethylene dibromide mixture, liquid	-	Toxic/poison by inhalation (TIH/PIH)
+1648	127	Acetonitrile	6342	
+1649	152	Motor fuel anti-knock mixture	-	
+1650	153	beta-Naphthylamine, solid	7057	
+1650	153	Naphthylamine (beta), solid	-	
+1651	153	Naphthylthiourea	736366	
+1652	153	Naphthylurea	81387	
+1653	151	Nickel cyanide	6093189	
+1654	151	Nicotine	89594	
+1655	151	Nicotine compound, solid, n.o.s.	-	
+1655	151	Nicotine preparation, solid, n.o.s.	-	
+1656	151	Nicotine hydrochloride, liquid	5284430	
+1656	151	Nicotine hydrochloride, solution	5284430	
+1657	151	Nicotine salicylate	20056613	
+1658	151	Nicotine sulfate, solution	2735101	
+1658	151	Nicotine sulphate, solution	2735101	
+1659	151	Nicotine tartrate	11957628	
+1660	124	Nitric oxide, compressed	145068	Toxic/poison by inhalation (TIH/PIH)
+1661	153	Nitroanilines	34692	
+1662	152	Nitrobenzene	7416	
+1663	153	Nitrophenols	88473196	
+1664	152	Nitrotoluenes, liquid	-	
+1665	152	Nitroxylenes, liquid	-	
+1669	151	Pentachloroethane	6419	
+1670	157	Perchloromethyl mercaptan	11666	Toxic/poison by inhalation (TIH/PIH)
+1671	153	Phenol, solid	996	
+1672	151	Phenylcarbylamine chloride	12145	Toxic/poison by inhalation (TIH/PIH)
+1673	153	Phenylenediamines	-	
+1674	151	Phenylmercuric acetate	16682730	
+1677	151	Potassium arsenate	516881	
+1678	154	Potassium arsenite	24967	
+1679	157	Potassium cuprocyanide	61666	
+1680	157	Potassium cyanide, solid	9032	Water-reactive material (WR)
+1683	151	Silver arsenite	44144454	
+1684	151	Silver cyanide	10475	
+1685	151	Sodium arsenate	47275	
+1686	154	Sodium arsenite, aqueous solution	443495	
+1687	153	Sodium azide	33557	
+1688	152	Sodium cacodylate	2724247	
+1689	157	Sodium cyanide, solid	8929	Water-reactive material (WR)
+1690	154	Sodium fluoride, solid	5235	
+1691	151	Strontium arsenite	167445	
+1692	151	Strychnine	441071	
+1692	151	Strychnine salts	-	
+1693	159	Tear gas devices	-	
+1693	159	Tear gas substance, liquid, n.o.s.	-	
+1694	159	Bromobenzyl cyanides, liquid	22044	
+1695	131	Chloroacetone, stabilized	6571	Toxic/poison by inhalation (TIH/PIH)
+1697	153	Chloroacetophenone, solid	10757	
+1698	154	Diphenylamine chloroarsine	11362	
+1699	151	Diphenylchloroarsine, liquid	12836	
+1700	159	Tear gas candles	-	
+1700	159	Tear gas grenades	-	
+1701	152	Xylyl bromide, liquid	11121	
+1702	151	1,1,2,2-Tetrachloroethane	6591	
+1704	153	Tetraethyl dithiopyrophosphate	19395	
+1707	151	Thallium compound, n.o.s.	-	
+1708	153	Toluidines, liquid	-	
+1709	151	2,4-Toluenediamine, solid	7261	
+1709	151	2,4-Toluylenediamine, solid	7261	
+1710	160	Trichloroethylene	6575	
+1711	153	Xylidines, liquid	56846457	
+1712	151	Zinc arsenate	6451222	
+1712	151	Zinc arsenate and zinc arsenite mixture	-	
+1712	151	Zinc arsenite	25156	
+1713	151	Zinc cyanide	-	
+1714	139	Zinc phosphide	25113606	
+1715	137	Acetic anhydride	7918	
+1716	156	Acetyl bromide	10482	Water-reactive material (WR)
+1717	155	Acetyl chloride	6367	Water-reactive material (WR)
+1718	153	Acid butyl phosphate	22600852	
+1718	153	Butyl acid phosphate	3033844	
+1719	154	Caustic alkali liquid, n.o.s.	-	
+1722	155	Allyl chlorocarbonate	18052	Toxic/poison by inhalation (TIH/PIH)
+1722	155	Allyl chloroformate	18052	Toxic/poison by inhalation (TIH/PIH)
+1723	132	Allyl iodide	11166	
+1724	155	Allyltrichlorosilane, stabilized	7867	Water-reactive material (WR)
+1725	137	Aluminum bromide, anhydrous	24409	Water-reactive material (WR)
+1726	137	Aluminum chloride, anhydrous	24012	Water-reactive material (WR)
+1727	154	Ammonium bifluoride, solid	14935	
+1727	154	Ammonium hydrogendifluoride, solid	14935	
+1728	156	Amyltrichlorosilane	7885	Water-reactive material (WR)
+1729	156	Anisoyl chloride	7477	
+1730	157	Antimony pentachloride, liquid	24294	
+1731	157	Antimony pentachloride, solution	24294	
+1732	157	Antimony pentafluoride	24557	Water-reactive material (WR)
+1733	157	Antimony trichloride	24814	
+1733	157	Antimony trichloride, liquid	24814	
+1733	157	Antimony trichloride, solid	24814	
+1736	137	Benzoyl chloride	7412	
+1737	156	Benzyl bromide	7498	
+1738	156	Benzyl chloride	7503	
+1739	137	Benzyl chloroformate	10387	
+1740	154	Hydrogendifluorides, solid, n.o.s.	-	
+1741	125	Boron trichloride	25135	Toxic/poison by inhalation (TIH/PIH); Water-reactive material (WR)
+1742	157	Boron trifluoride acetic acid complex, liquid	-	
+1743	157	Boron trifluoride propionic acid complex, liquid	-	
+1744	154	Bromine	24408	Toxic/poison by inhalation (TIH/PIH)
+1744	154	Bromine, solution	24408	Toxic/poison by inhalation (TIH/PIH)
+1744	154	Bromine, solution (Inhalation Hazard Zone A)	24408	Toxic/poison by inhalation (TIH/PIH)
+1744	154	Bromine, solution (Inhalation Hazard Zone B)	24408	Toxic/poison by inhalation (TIH/PIH)
+1745	144	Bromine pentafluoride	24606	Toxic/poison by inhalation (TIH/PIH); Water-reactive material (WR)
+1746	144	Bromine trifluoride	24594	Toxic/poison by inhalation (TIH/PIH); Water-reactive material (WR)
+1747	155	Butyltrichlorosilane	24142	Water-reactive material (WR)
+1748	140	Calcium hypochlorite, dry	24504	
+1748	140	Calcium hypochlorite mixture, dry, with more than 39% available chlorine (8.8% available oxygen)	24504	
+1749	124	Chlorine trifluoride	24637	Toxic/poison by inhalation (TIH/PIH)
+1750	153	Chloroacetic acid, solution	300	
+1751	153	Chloroacetic acid, solid	300	
+1752	156	Chloroacetyl chloride	6577	Toxic/poison by inhalation (TIH/PIH); Water-reactive material (WR)
+1753	156	Chlorophenyltrichlorosilane	70002	Water-reactive material (WR)
+1754	137	Chlorosulfonic acid (with or without sulfur trioxide)	24638	Toxic/poison by inhalation (TIH/PIH); Water-reactive material (WR)
+1754	137	Chlorosulphonic acid (with or without sulphur trioxide)	24638	Toxic/poison by inhalation (TIH/PIH); Water-reactive material (WR)
+1755	154	Chromic acid, solution	24425	
+1756	154	Chromic fluoride, solid	522687	
+1757	154	Chromic fluoride, solution	522687	
+1758	137	Chromium oxychloride	22150757	Water-reactive material (WR)
+1759	154	Corrosive solid, n.o.s.	-	
+1759	154	Ferrous chloride, solid	24458	
+1760	154	Chemical kit	-	
+1760	154	Compounds, cleaning liquid (corrosive)	-	
+1760	154	Compounds, tree or weed killing, liquid (corrosive)	-	
+1760	154	Corrosive liquid, n.o.s.	-	
+1760	154	Ferrous chloride, solution	24458	
+1761	154	Cupriethylenediamine, solution	4578819	
+1762	156	Cyclohexenyltrichlorosilane	61483	Water-reactive material (WR)
+1763	156	Cyclohexyltrichlorosilane	60987	Water-reactive material (WR)
+1764	153	Dichloroacetic acid	6597	
+1765	156	Dichloroacetyl chloride	6593	Water-reactive material (WR)
+1766	156	Dichlorophenyltrichlorosilane	156614055	Water-reactive material (WR)
+1767	155	Diethyldichlorosilane	15589	Water-reactive material (WR)
+1768	154	Difluorophosphoric acid, anhydrous	61681	
+1769	156	Diphenyldichlorosilane	6627	Water-reactive material (WR)
+1770	153	Diphenylmethyl bromide	236603	
+1771	156	Dodecyltrichlorosilane	20568	Water-reactive material (WR)
+1773	157	Ferric chloride, anhydrous	24380	
+1774	154	Fire extinguisher charges, corrosive liquid	-	
+1775	154	Fluoroboric acid	28118	
+1776	154	Fluorophosphoric acid, anhydrous	24267	
+1777	137	Fluorosulfonic acid	24603	Water-reactive material (WR)
+1777	137	Fluorosulphonic acid	24603	Water-reactive material (WR)
+1778	154	Fluorosilicic acid	21863527	
+1778	154	Hydrofluorosilicic acid	21863527	
+1779	153	Formic acid	284	
+1779	153	Formic acid, with more than 85% acid	284	
+1780	156	Fumaryl chloride	5325504	
+1781	156	Hexadecyltrichlorosilane	22184	Water-reactive material (WR)
+1782	154	Hexafluorophosphoric acid	16211447	
+1783	153	Hexamethylenediamine, solution	16402	
+1784	156	Hexyltrichlorosilane	13571	Water-reactive material (WR)
+1786	157	Hydrofluoric acid and sulfuric acid mixture	-	
+1786	157	Hydrofluoric acid and sulphuric acid mixture	-	
+1786	157	Sulfuric acid and hydrofluoric acid mixture	-	
+1786	157	Sulphuric acid and hydrofluoric acid mixture	-	
+1787	154	Hydriodic acid	24841	
+1788	154	Hydrobromic acid	260	
+1789	157	Hydrochloric acid	313	
+1789	157	Muriatic acid	313	
+1790	157	Hydrofluoric acid	14917	
+1791	154	Hypochlorite solution	-	
+1791	154	Sodium hypochlorite	23665760	
+1792	157	Iodine monochloride, solid	24640	
+1793	153	Isopropyl acid phosphate	15391	
+1794	154	Lead sulfate, with more than 3% free acid	24008	
+1794	154	Lead sulphate, with more than 3% free acid	24008	
+1796	157	Nitrating acid mixture with more than 50% nitric acid	-	
+1796	157	Nitrating acid mixture with not more than 50% nitric acid	-	
+1798	157	Aqua regia	90477010	
+1798	157	Nitrohydrochloric acid	90477010	
+1799	156	Nonyltrichlorosilane	21355	Water-reactive material (WR)
+1800	156	Octadecyltrichlorosilane	8157	Water-reactive material (WR)
+1801	156	Octyltrichlorosilane	21354	Water-reactive material (WR)
+1802	157	Perchloric acid, with not more than 50% acid	24247	
+1803	153	Phenolsulfonic acid, liquid	4765	
+1803	153	Phenolsulphonic acid, liquid	11867	
+1804	156	Phenyltrichlorosilane	7372	Water-reactive material (WR)
+1805	154	Phosphoric acid, solution	1004	
+1806	137	Phosphorus pentachloride	24819	Water-reactive material (WR)
+1807	137	Phosphorus pentoxide	6326975	
+1808	137	Phosphorus tribromide	24614	Water-reactive material (WR)
+1809	137	Phosphorus trichloride	24387	Toxic/poison by inhalation (TIH/PIH); Water-reactive material (WR)
+1810	137	Phosphorus oxychloride	24813	Toxic/poison by inhalation (TIH/PIH); Water-reactive material (WR)
+1811	154	Potassium hydrogen difluoride, solid	11829350	
+1812	154	Potassium fluoride, solid	522689	
+1813	154	Caustic potash, solid	14797	
+1813	154	Potassium hydroxide, solid	14797	
+1814	154	Caustic potash, solution	14797	
+1814	154	Potassium hydroxide, solution	14797	
+1815	155	Propionyl chloride	62324	Water-reactive material (WR)
+1816	155	Propyltrichlorosilane	8850	Water-reactive material (WR)
+1817	137	Pyrosulfuryl chloride	24649	
+1817	137	Pyrosulphuryl chloride	-	
+1818	157	Silicon tetrachloride	24816	Water-reactive material (WR)
+1819	154	Sodium aluminate, solution	14766	
+1823	154	Caustic soda, solid	14798	
+1823	154	Sodium hydroxide, solid	14798	
+1824	154	Caustic soda, solution	14798	
+1824	154	Sodium hydroxide, solution	14798	
+1825	157	Sodium monoxide	61564	
+1826	157	Nitrating acid mixture, spent, with more than 50% nitric acid	-	
+1826	157	Nitrating acid mixture, spent, with not more than 50% nitric acid	-	
+1827	137	Stannic chloride, anhydrous	24287	
+1827	137	Tin tetrachloride	24287	
+1828	137	Sulfur chlorides	-	Toxic/poison by inhalation (TIH/PIH); Water-reactive material (WR)
+1828	137	Sulphur chlorides	-	Toxic/poison by inhalation (TIH/PIH); Water-reactive material (WR)
+1829	137	Sulfur trioxide, stabilized	24682	Toxic/poison by inhalation (TIH/PIH)
+1829	137	Sulphur trioxide, stabilized	24682	Toxic/poison by inhalation (TIH/PIH)
+1830	137	Sulfuric acid	1118	
+1830	137	Sulfuric acid, with more than 51% acid	1118	
+1830	137	Sulphuric acid	1118	
+1830	137	Sulphuric acid, with more than 51% acid	1118	
+1831	137	Sulfuric acid, fuming	24681	Toxic/poison by inhalation (TIH/PIH)
+1831	137	Sulphuric acid, fuming	-	Toxic/poison by inhalation (TIH/PIH)
+1832	137	Sulfuric acid, spent	1118	
+1832	137	Sulphuric acid, spent	-	
+1833	154	Sulfurous acid	1100	
+1833	154	Sulphurous acid	1100	
+1834	137	Sulfuryl chloride	24648	Toxic/poison by inhalation (TIH/PIH); Water-reactive material (WR)
+1834	137	Sulphuryl chloride	24648	Toxic/poison by inhalation (TIH/PIH); Water-reactive material (WR)
+1835	153	Tetramethylammonium hydroxide aqueous solution with more than 2.5% but less than 25% tetramethylammonium hydroxide	-	
+1835	153	Tetramethylammonium hydroxide, solution	60966	
+1836	137	Thionyl chloride	24386	Toxic/poison by inhalation (TIH/PIH); Water-reactive material (WR)
+1837	157	Thiophosphoryl chloride	19883	
+1838	137	Titanium tetrachloride	24193	Toxic/poison by inhalation (TIH/PIH); Water-reactive material (WR)
+1839	153	Trichloroacetic acid	6421	
+1840	154	Zinc chloride, solution	5727	
+1841	171	Acetaldehyde ammonia	522583	
+1843	141	Ammonium dinitro-o-cresolate, solid	18117	
+1845	120	Carbon dioxide, solid	280	
+1845	120	Dry ice	280	
+1846	151	Carbon tetrachloride	5943	
+1847	153	Potassium sulfide, hydrated, with not less than 30% water of crystallization	162263	
+1847	153	Potassium sulphide, hydrated, with not less than 30% water of crystallization	162263	
+1848	153	Propionic acid	1032	
+1848	153	Propionic acid, with not less than 10% and less than 90% acid	1032	
+1849	153	Sodium sulfide, hydrated, with not less than 30% water	237873	
+1849	153	Sodium sulphide, hydrated, with not less than 30% water	14804	
+1851	151	Medicine, liquid, poisonous, n.o.s.	14184	
+1851	151	Medicine, liquid, toxic, n.o.s.	14184	
+1854	135	Barium alloys, pyrophoric	-	
+1855	135	Calcium, pyrophoric	-	
+1855	135	Calcium alloys, pyrophoric	-	
+1856	133	Rags, oily	-	
+1857	133	Textile waste, wet	-	
+1858	126	Hexafluoropropylene	8302	
+1858	126	Hexafluoropropylene, compressed	8302	
+1858	126	Refrigerant gas R-1216	8302	
+1859	125	Silicon tetrafluoride	24556	Toxic/poison by inhalation (TIH/PIH)
+1859	125	Silicon tetrafluoride, compressed	24556	Toxic/poison by inhalation (TIH/PIH)
+1860	116P	Vinyl fluoride, stabilized	6339	
+1862	130	Ethyl crotonate	429065	
+1863	128	Fuel, aviation, turbine engine	-	
+1865	128	n-Propyl nitrate	12307	
+1866	128	Resin solution	-	
+1868	134	Decaborane	-	
+1869	138	Magnesium	5462224	
+1869	138	Magnesium, in pellets, turnings or ribbons	-	
+1869	138	Magnesium alloys, with more than 50% magnesium, in pellets, turnings or ribbons	-	
+1870	138	Potassium borohydride	4192641	
+1871	170	Titanium hydride	197094	
+1872	140	Lead dioxide	14793	
+1873	143	Perchloric acid, with more than 50% but not more than 72% acid	24247	
+1884	157	Barium oxide	62392	
+1885	153	Benzidine	7111	
+1886	156	Benzylidene chloride	7411	
+1887	160	Bromochloromethane	6333	
+1888	151	Chloroform	6212	
+1889	157	Cyanogen bromide	10476	
+1891	131	Ethyl bromide	6332	
+1892	151	Ethyldichloroarsine	11711	Toxic/poison by inhalation (TIH/PIH)
+1894	151	Phenylmercuric hydroxide	7512	
+1895	151	Phenylmercuric nitrate	16682924	
+1897	160	Perchloroethylene	31373	
+1897	160	Tetrachloroethylene	31373	
+1898	156	Acetyl iodide	10483	Water-reactive material (WR)
+1902	153	Diisooctyl acid phosphate	103474	
+1903	153	Disinfectant, liquid, corrosive, n.o.s.	-	
+1905	154	Selenic acid	1089	
+1906	153	Acid, sludge	-	
+1906	153	Sludge acid	-	
+1907	154	Soda lime, with more than 4% sodium hydroxide	66545795	
+1908	154	Chlorite solution	197148	
+1910	157	Calcium oxide	14778	
+1911	119	Diborane	12544637	Toxic/poison by inhalation (TIH/PIH)
+1911	119	Diborane mixtures	12544637	Toxic/poison by inhalation (TIH/PIH)
+1912	115	Methyl chloride and methylene chloride mixture	-	
+1913	120	Neon, refrigerated liquid (cryogenic liquid)	23935	
+1914	130	Butyl propionates	11529	
+1915	127	Cyclohexanone	7967	
+1916	152	2,2'-Dichlorodiethyl ether	8115	
+1916	152	Dichloroethyl ether	8115	
+1917	129P	Ethyl acrylate, stabilized	8821	
+1918	130	Cumene	7406	
+1918	130	Isopropylbenzene	7406	
+1919	129P	Methyl acrylate, stabilized	7294	
+1920	128	Nonanes	-	
+1921	131P	Propyleneimine, stabilized	6377	
+1922	132	Pyrrolidine	31268	
+1923	135	Calcium dithionite	9793941	Water-reactive material (WR)
+1923	135	Calcium hydrosulfite	9793941	Water-reactive material (WR)
+1923	135	Calcium hydrosulphite	9793941	Water-reactive material (WR)
+1928	138	Methyl magnesium bromide in ethyl ether	-	
+1929	135	Potassium dithionite	61726	Water-reactive material (WR)
+1929	135	Potassium hydrosulfite	61726	Water-reactive material (WR)
+1929	135	Potassium hydrosulphite	61726	Water-reactive material (WR)
+1931	171	Zinc dithionite	24517	Water-reactive material (WR)
+1931	171	Zinc hydrosulfite	24517	Water-reactive material (WR)
+1931	171	Zinc hydrosulphite	24517	Water-reactive material (WR)
+1932	135	Zirconium scrap	23995	
+1935	157	Cyanide solution, n.o.s.	-	
+1938	156	Bromoacetic acid, solution	6227	
+1939	137	Phosphorus oxybromide, solid	24613	
+1940	153	Thioglycolic acid	1133	
+1941	171	Dibromodifluoromethane	6382	
+1941	171	Refrigerant gas R-12B2	6382	
+1942	140	Ammonium nitrate, with not more than 0.2% combustible substances	22985	
+1944	133	Matches, safety	-	
+1945	133	Matches, wax "vesta"	-	
+1950	126	Aerosols	-	
+1951	120	Argon, refrigerated liquid (cryogenic liquid)	23968	
+1952	126	Ethylene oxide and carbon dioxide mixture, with not more than 9% ethylene oxide	-	
+1953	119	Compressed gas, poisonous, flammable, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+1953	119	Compressed gas, poisonous, flammable, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+1953	119	Compressed gas, poisonous, flammable, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+1953	119	Compressed gas, poisonous, flammable, n.o.s. (Inhalation Hazard Zone C)	-	Toxic/poison by inhalation (TIH/PIH)
+1953	119	Compressed gas, poisonous, flammable, n.o.s. (Inhalation Hazard Zone D)	-	Toxic/poison by inhalation (TIH/PIH)
+1953	119	Compressed gas, toxic, flammable, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+1953	119	Compressed gas, toxic, flammable, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+1953	119	Compressed gas, toxic, flammable, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+1953	119	Compressed gas, toxic, flammable, n.o.s. (Inhalation Hazard Zone C)	-	Toxic/poison by inhalation (TIH/PIH)
+1953	119	Compressed gas, toxic, flammable, n.o.s. (Inhalation Hazard Zone D)	-	Toxic/poison by inhalation (TIH/PIH)
+1954	115	Compressed gas, flammable, n.o.s.	-	
+1954	115	Dispersant gases, n.o.s. (flammable)	-	
+1954	115	Refrigerant gases, n.o.s. (flammable)	-	
+1955	123	Compressed gas, poisonous, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+1955	123	Compressed gas, poisonous, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+1955	123	Compressed gas, poisonous, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+1955	123	Compressed gas, poisonous, n.o.s. (Inhalation Hazard Zone C)	-	Toxic/poison by inhalation (TIH/PIH)
+1955	123	Compressed gas, poisonous, n.o.s. (Inhalation Hazard Zone D)	-	Toxic/poison by inhalation (TIH/PIH)
+1955	123	Compressed gas, toxic, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+1955	123	Compressed gas, toxic, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+1955	123	Compressed gas, toxic, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+1955	123	Compressed gas, toxic, n.o.s. (Inhalation Hazard Zone C)	-	Toxic/poison by inhalation (TIH/PIH)
+1955	123	Compressed gas, toxic, n.o.s. (Inhalation Hazard Zone D)	-	Toxic/poison by inhalation (TIH/PIH)
+1955	123	Organic phosphate compound mixed with compressed gas	-	Toxic/poison by inhalation (TIH/PIH)
+1955	123	Organic phosphate mixed with compressed gas	-	Toxic/poison by inhalation (TIH/PIH)
+1955	123	Organic phosphorus compound mixed with compressed gas	-	Toxic/poison by inhalation (TIH/PIH)
+1956	126	Compressed gas, n.o.s.	-	
+1957	115	Deuterium, compressed	24523	
+1958	126	1,2-Dichloro-1,1,2,2-tetrafluoroethane	6429	
+1958	126	Refrigerant gas R-114	6429	
+1959	116P	1,1-Difluoroethylene	6369	
+1959	116P	Refrigerant gas R-1132a	6369	
+1961	115	Ethane, refrigerated liquid	6324	
+1961	115	Ethane-propane mixture, refrigerated liquid	-	
+1962	116P	Ethylene	6325	
+1962	116P	Ethylene, compressed	6325	
+1963	120	Helium, refrigerated liquid (cryogenic liquid)	23987	
+1964	115	Hydrocarbon gas mixture, compressed, n.o.s.	-	
+1965	115	Hydrocarbon gas mixture, liquefied, n.o.s.	-	
+1966	115	Hydrogen, refrigerated liquid (cryogenic liquid)	783	
+1967	123	Insecticide gas, poisonous, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+1967	123	Insecticide gas, toxic, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+1967	123	Parathion and compressed gas mixture	-	Toxic/poison by inhalation (TIH/PIH)
+1968	126	Insecticide gas, n.o.s.	-	
+1969	115	Isobutane	6360	
+1970	120	Krypton, refrigerated liquid (cryogenic liquid)	5416	
+1971	115	Methane, compressed	297	
+1971	115	Natural gas, compressed	297	
+1972	115	Liquefied natural gas (cryogenic liquid)	-	
+1972	115	LNG (cryogenic liquid)	13109	
+1972	115	Methane, refrigerated liquid (cryogenic liquid)	297	
+1972	115	Natural gas, refrigerated liquid (cryogenic liquid)	297	
+1973	126	Chlorodifluoromethane and chloropentafluoroethane mixture	-	
+1973	126	Refrigerant gas R-502	-	
+1974	126	Chlorodifluorobromomethane	9625	
+1974	126	Refrigerant gas R-12B1	9625	
+1975	124	Nitric oxide and dinitrogen tetroxide mixture	-	Toxic/poison by inhalation (TIH/PIH)
+1975	124	Nitric oxide and nitrogen dioxide mixture	-	Toxic/poison by inhalation (TIH/PIH)
+1976	126	Octafluorocyclobutane	8263	
+1976	126	Refrigerant gas RC-318	8263	
+1977	120	Nitrogen, refrigerated liquid (cryogenic liquid)	947	
+1978	115	Propane	6334	
+1982	126	Refrigerant gas R-14	6393	
+1982	126	Tetrafluoromethane	6393	
+1983	126	1-Chloro-2,2,2-trifluoroethane	6408	
+1983	126	Refrigerant gas R-133a	6408	
+1984	126	Refrigerant gas R-23	6373	
+1984	126	Trifluoromethane	6373	
+1986	131	Alcohols, flammable, poisonous, n.o.s.	-	
+1986	131	Alcohols, flammable, toxic, n.o.s.	-	
+1987	127	Alcohols, n.o.s.	-	
+1987	127	Denatured alcohol	702	
+1988	131P	Aldehydes, flammable, poisonous, n.o.s.	6449839	
+1988	131P	Aldehydes, flammable, toxic, n.o.s.	6449839	
+1989	129P	Aldehydes, n.o.s.	6449839	
+1990	171	Benzaldehyde	240	
+1991	131P	Chloroprene, stabilized	31369	
+1992	131	Flammable liquid, poisonous, n.o.s.	-	
+1992	131	Flammable liquid, toxic, n.o.s.	-	
+1993	128	Combustible liquid, n.o.s.	-	
+1993	128	Compounds, cleaning liquid (flammable)	-	
+1993	128	Compounds, tree or weed killing, liquid (flammable)	-	
+1993	128	Diesel fuel	-	
+1993	128	Flammable liquid, n.o.s.	-	
+1993	128	Fuel oil	-	
+1994	136	Iron pentacarbonyl	26040	Toxic/poison by inhalation (TIH/PIH)
+1999	130	Asphalt	-	
+1999	130	Asphalt, cut back	-	
+1999	130	Tars, liquid	-	
+2000	133	Celluloid, in block, rods, rolls, sheets, tubes, etc., except scrap	-	
+2001	133	Cobalt naphthenates, powder	22833343	
+2002	135	Celluloid, scrap	-	
+2004	135	Magnesium diamide	10219363	Water-reactive material (WR)
+2006	135	Plastics, nitrocellulose-based, self-heating, n.o.s.	-	
+2008	135	Zirconium powder, dry	23995	
+2009	135	Zirconium, dry, finished sheets, strip or coiled wire	23995	
+2010	138	Magnesium hydride	5486771	
+2011	139	Magnesium phosphide	61546	Water-reactive material (WR)
+2012	139	Potassium phosphide	-	Water-reactive material (WR)
+2013	139	Strontium phosphide	166710	Water-reactive material (WR)
+2014	140	Hydrogen peroxide, aqueous solution, with not less than 20% but not more than 60% hydrogen peroxide (stabilized as necessary)	784	
+2015	143	Hydrogen peroxide, aqueous solution, stabilized, with more than 60% hydrogen peroxide	784	
+2015	143	Hydrogen peroxide, stabilized	784	
+2016	151	Ammunition, poisonous, non-explosive	-	
+2016	151	Ammunition, toxic, non-explosive	-	
+2017	159	Ammunition, tear-producing, non-explosive	-	
+2018	152	Chloroanilines, solid	-	
+2019	152	Chloroanilines, liquid	-	
+2020	153	Chlorophenols, solid	6028	
+2021	153	Chlorophenols, liquid	6028	
+2022	153	Cresylic acid	-	
+2023	131P	Epichlorohydrin	7835	
+2024	151	Mercury compound, liquid, n.o.s.	-	
+2025	151	Mercury compound, solid, n.o.s.	-	
+2026	151	Phenylmercuric compound, n.o.s.	-	
+2027	151	Sodium arsenite, solid	443495	
+2028	153	Bombs, smoke, non-explosive, with corrosive liquid, without initiating device	-	
+2029	132	Hydrazine, anhydrous	9321	
+2030	153	Hydrazine, aqueous solution, with more than 37% hydrazine	9321	
+2031	157	Nitric acid, other than red fuming, with more than 65% nitric acid	-	
+2031	157	Nitric acid, other than red fuming, with not more than 65% nitric acid	-	
+2032	157	Nitric acid, red fuming	944	Toxic/poison by inhalation (TIH/PIH)
+2033	154	Potassium monoxide	9989219	
+2034	115	Hydrogen and methane mixture, compressed	-	
+2035	115	Refrigerant gas R-143a	9868	
+2035	115	1,1,1-Trifluoroethane	9868	
+2036	120	Xenon	23991	
+2036	120	Xenon, compressed	23991	
+2037	115	Gas cartridges	-	
+2037	115	Receptacles, small, containing gas	-	
+2038	152	Dinitrotoluenes, liquid	-	
+2044	115	2,2-Dimethylpropane	10041	
+2045	130	Isobutyl aldehyde	6561	
+2045	130	Isobutyraldehyde	6561	
+2046	130	Cymenes	-	
+2047	129	Dichloropropenes	-	
+2048	130P	Dicyclopentadiene	6492	
+2049	130	Diethylbenzene	-	
+2050	128	Diisobutylene, isomeric compounds	-	
+2051	132	2-Dimethylaminoethanol	7902	
+2052	128	Dipentene	22311	
+2053	129	Methyl isobutyl carbinol	7910	
+2054	132	Morpholine	8083	
+2055	128P	Styrene monomer, stabilized	7501	
+2056	127	Tetrahydrofuran	8028	
+2057	128	Tripropylene	26374	
+2058	129	Valeraldehyde	8063	
+2059	127	Nitrocellulose solution, flammable	-	
+2067	140	Ammonium nitrate based fertilizer	-	
+2071	140	Ammonium nitrate based fertilizer	-	
+2073	125	Ammonia solution, with more than 35% but not more than 50% ammonia	-	
+2074	153P	Acrylamide, solid	6579	
+2075	153	Chloral, anhydrous, stabilized	6407	
+2076	153	Cresols, liquid	-	
+2077	153	alpha-Naphthylamine	8640	
+2077	153	Naphthylamine (alpha)	-	
+2078	156	Toluene diisocyanate	-	
+2079	154	Diethylenetriamine	8111	
+2186	125	Hydrogen chloride, refrigerated liquid	313	Toxic/poison by inhalation (TIH/PIH)
+2187	120	Carbon dioxide, refrigerated liquid	280	
+2188	119	Arsine	23969	Toxic/poison by inhalation (TIH/PIH)
+2189	119	Dichlorosilane	61330	Toxic/poison by inhalation (TIH/PIH)
+2190	124	Oxygen difluoride, compressed	24547	Toxic/poison by inhalation (TIH/PIH)
+2191	123	Sulfuryl fluoride	17607	Toxic/poison by inhalation (TIH/PIH)
+2191	123	Sulphuryl fluoride	17607	Toxic/poison by inhalation (TIH/PIH)
+2192	119	Germane	23984	Toxic/poison by inhalation (TIH/PIH)
+2193	126	Hexafluoroethane	6431	
+2193	126	Refrigerant gas R-116	6431	
+2194	125	Selenium hexafluoride	24558	Toxic/poison by inhalation (TIH/PIH)
+2195	125	Tellurium hexafluoride	24559	Toxic/poison by inhalation (TIH/PIH)
+2196	125	Tungsten hexafluoride	522684	Toxic/poison by inhalation (TIH/PIH)
+2197	125	Hydrogen iodide, anhydrous	24841	Toxic/poison by inhalation (TIH/PIH)
+2198	125	Phosphorus pentafluoride	24295	Toxic/poison by inhalation (TIH/PIH)
+2198	125	Phosphorus pentafluoride, compressed	24295	Toxic/poison by inhalation (TIH/PIH)
+2199	119	Phosphine	24404	Toxic/poison by inhalation (TIH/PIH)
+2200	116P	Propadiene, stabilized	10037	
+2201	122	Nitrous oxide, refrigerated liquid	948	
+2202	117	Hydrogen selenide, anhydrous	533	Toxic/poison by inhalation (TIH/PIH)
+2203	116	Silane	23953	
+2204	119	Carbonyl sulfide	10039	Toxic/poison by inhalation (TIH/PIH)
+2204	119	Carbonyl sulphide	10039	Toxic/poison by inhalation (TIH/PIH)
+2205	153	Adiponitrile	8128	
+2206	156	Isocyanate solution, poisonous, n.o.s.	-	
+2206	156	Isocyanate solution, toxic, n.o.s.	-	
+2206	156	Isocyanates, poisonous, n.o.s.	105034	
+2206	156	Isocyanates, toxic, n.o.s.	105034	
+2208	140	Bleaching powder	24504	
+2208	140	Calcium hypochlorite mixture, dry, with more than 10% but not more than 39% available chlorine	24504	
+2209	153	Formaldehyde, solution (corrosive)	712	
+2209	153	Formalin (corrosive)	712	
+2210	135	Maneb	3032581	
+2210	135	Maneb preparation, with not less than 60% maneb	-	
+2211	171	Polymeric beads, expandable	-	
+2212	171	Asbestos	-	
+2212	171	Asbestos, amphibole	-	
+2213	133	Paraformaldehyde	-	
+2214	156	Phthalic anhydride	6811	
+2215	156	Maleic anhydride	7923	
+2215	156	Maleic anhydride, molten	-	
+2216	171	Fish meal, stabilized	-	
+2216	171	Fish scrap, stabilized	-	
+2217	135	Seed cake, with not more than 1.5% oil and not more than 11% moisture	-	
+2218	132P	Acrylic acid, stabilized	6581	
+2219	129	Allyl glycidyl ether	7838	
+2222	128	Anisole	7519	
+2224	152	Benzonitrile	7505	
+2225	156	Benzenesulfonyl chloride	7369	
+2225	156	Benzenesulphonyl chloride	7369	
+2226	156	Benzotrichloride	7367	
+2227	130P	n-Butyl methacrylate, stabilized	7354	
+2232	153	Chloroacetaldehyde	33	Toxic/poison by inhalation (TIH/PIH)
+2232	153	2-Chloroethanal	33	Toxic/poison by inhalation (TIH/PIH)
+2233	152	Chloroanisidines	-	
+2234	130	Chlorobenzotrifluorides	-	
+2235	153	Chlorobenzyl chlorides, liquid	-	
+2236	156	3-Chloro-4-methylphenyl isocyanate, liquid	62832	
+2237	153	Chloronitroanilines	44144434	
+2238	129	Chlorotoluenes	-	
+2239	153	Chlorotoluidines, solid	-	
+2240	154	Chromosulfuric acid	24930	
+2240	154	Chromosulphuric acid	-	
+2241	128	Cycloheptane	9265	
+2242	128	Cycloheptene	12363	
+2243	130	Cyclohexyl acetate	12146	
+2244	129	Cyclopentanol	7298	
+2245	128	Cyclopentanone	8452	
+2246	128	Cyclopentene	8882	
+2247	128	n-Decane	15600	
+2248	132	Di-n-butylamine	8148	
+2249	131	Dichlorodimethyl ether, symmetrical	10967	
+2250	156	Dichlorophenyl isocyanates	-	
+2251	128P	Bicyclo[2.2.1]hepta-2,5-diene, stabilized	8473	
+2251	128P	2,5-Norbornadiene, stabilized	8473	
+2252	127	1,2-Dimethoxyethane	8071	
+2253	153	N,N-Dimethylaniline	949	
+2254	133	Matches, fusee	-	
+2256	130	Cyclohexene	8079	
+2257	138	Potassium	5462222	
+2258	132	1,2-Propylenediamine	6567	
+2259	153	Triethylenetetramine	5565	
+2260	132	Tripropylamine	7616	
+2261	153	Xylenols, solid	-	
+2262	156	Dimethylcarbamoyl chloride	6598	
+2263	128	Dimethylcyclohexanes	11549	
+2264	132	N,N-Dimethylcyclohexylamine	7415	
+2264	132	Dimethylcyclohexylamine	7415	
+2265	129	N,N-Dimethylformamide	6228	
+2266	132	Dimethyl-N-propylamine	61236	
+2267	156	Dimethyl thiophosphoryl chloride	17304	
+2269	153	3,3'-Iminodipropylamine	5942	
+2270	132	Ethylamine, aqueous solution, with not less than 50% but not more than 70% ethylamine	6341	
+2271	128	Ethyl amyl ketone	7822	
+2272	153	N-Ethylaniline	7670	
+2273	153	2-Ethylaniline	11357	
+2274	153	N-Ethyl-N-benzylaniline	7098	
+2275	129	2-Ethylbutanol	7358	
+2276	132	2-Ethylhexylamine	7719	
+2277	130P	Ethyl methacrylate, stabilized	7343	
+2278	128	n-Heptene	11610	
+2279	151	Hexachlorobutadiene	6901	
+2280	153	Hexamethylenediamine, solid	16402	
+2281	156	Hexamethylene diisocyanate	13192	
+2282	129	Hexanols	8103	
+2283	130P	Isobutyl methacrylate, stabilized	7352	
+2284	131	Isobutyronitrile	6559	
+2285	155	Isocyanatobenzotrifluorides	-	Toxic/poison by inhalation (TIH/PIH)
+2286	128	Pentamethylheptane	3033849	
+2287	128	Isoheptenes	-	
+2288	128	Isohexenes	22468	
+2289	153	Isophoronediamine	17857	
+2290	156	Isophorone diisocyanate	169132	
+2291	151	Lead compound, soluble, n.o.s.	-	
+2293	128	4-Methoxy-4-methylpentan-2-one	7884	
+2294	153	N-Methylaniline	7515	
+2295	131	Methyl chloroacetate	7295	
+2296	128	Methylcyclohexane	7962	
+2297	128	Methylcyclohexanone	-	
+2298	128	Methylcyclopentane	7296	
+2299	156	Methyl dichloroacetate	8315	
+2300	153	2-Methyl-5-ethylpyridine	7728	
+2301	128	2-Methylfuran	10797	
+2302	127	5-Methylhexan-2-one	8034	
+2303	128	Isopropenylbenzene	7407	
+2304	133	Naphthalene, molten	931	
+2305	153	Nitrobenzenesulfonic acid	6664	
+2305	153	Nitrobenzenesulphonic acid	6664	
+2306	152	Nitrobenzotrifluorides, liquid	-	
+2307	152	3-Nitro-4-chlorobenzotrifluoride	8462	
+2308	157	Nitrosylsulfuric acid, liquid	82157	Water-reactive material (WR)
+2308	157	Nitrosylsulphuric acid, liquid	82157	Water-reactive material (WR)
+2309	128P	Octadiene	517653	
+2310	131	Pentane-2,4-dione	31261	
+2311	153	Phenetidines	-	
+2312	153	Phenol, molten	996	
+2313	129	Picolines	-	
+2315	171	PCB, liquid	-	
+2315	171	Polychlorinated biphenyls, liquid	-	
+2316	157	Sodium cuprocyanide, solid	-	
+2317	157	Sodium cuprocyanide, solution	-	
+2318	135	Sodium hydrosulfide, with less than 25% water of crystallization	28015	
+2318	135	Sodium hydrosulphide, with less than 25% water of crystallization	28015	
+2319	128	Terpene hydrocarbons, n.o.s.	-	
+2320	153	Tetraethylenepentamine	8197	
+2321	153	Trichlorobenzenes, liquid	-	
+2322	152	Trichlorobutene	39864	
+2323	130	Triethyl phosphite	31215	
+2324	128	Triisobutylene	170244	
+2325	129	1,3,5-Trimethylbenzene	7947	
+2326	153	Trimethylcyclohexylamine	3021815	
+2327	153	Trimethylhexamethylenediamines	-	
+2328	156	Trimethylhexamethylene diisocyanate	3033881	
+2329	130	Trimethyl phosphite	8472	
+2330	128	Undecane	14257	
+2331	154	Zinc chloride, anhydrous	5727	
+2332	129	Acetaldehyde oxime	7863	
+2333	131	Allyl acetate	11584	
+2334	131	Allylamine	7853	Toxic/poison by inhalation (TIH/PIH)
+2335	131	Allyl ethyl ether	11191	
+2336	131	Allyl formate	61278	
+2337	131	Phenyl mercaptan	7969	Toxic/poison by inhalation (TIH/PIH)
+2338	127	Benzotrifluoride	7368	
+2339	130	2-Bromobutane	6554	
+2340	130	2-Bromoethyl ethyl ether	61141	
+2341	130	1-Bromo-3-methylbutane	7891	
+2342	130	Bromomethylpropanes	-	
+2343	130	2-Bromopentane	7890	
+2344	129	Bromopropanes	-	
+2345	130	3-Bromopropyne	7842	
+2346	127	Butanedione	650	
+2346	127	Diacetyl	650	
+2347	130	Butyl mercaptan	8012	
+2348	129P	Butyl acrylates, stabilized	-	
+2350	127	Butyl methyl ether	12338	
+2351	129	Butyl nitrites	-	
+2352	127P	Butyl vinyl ether, stabilized	8108	
+2353	155	Butyryl chloride	8855	Water-reactive material (WR)
+2354	131	Chloromethyl ethyl ether	18523	
+2356	129	2-Chloropropane	6361	
+2357	132	Cyclohexylamine	7965	
+2358	128P	Cyclooctatetraene	637866	
+2359	132	Diallylamine	31279	
+2360	131P	Diallyl ether	11194	
+2361	132	Diisobutylamine	8085	
+2362	130	1,1-Dichloroethane	6365	
+2363	129	Ethyl mercaptan	6343	
+2364	128	n-Propylbenzene	7668	
+2366	128	Diethyl carbonate	7766	
+2367	130	alpha-Methylvaleraldehyde	31245	
+2367	130	Methyl valeraldehyde (alpha)	31245	
+2368	128	alpha-Pinene	6654	
+2368	128	Pinene (alpha)	-	
+2370	128	1-Hexene	11597	
+2371	128	Isopentenes	11240	
+2372	129	1,2-Di-(dimethylamino) ethane	-	
+2373	127	Diethoxymethane	10024	
+2374	127	3,3-Diethoxypropene	62477	
+2375	129	Diethyl sulfide	9609	
+2375	129	Diethyl sulphide	9609	
+2376	127	2,3-Dihydropyran	8080	
+2377	127	1,1-Dimethoxyethane	10795	
+2378	131	2-Dimethylaminoacetonitrile	61237	
+2379	132	1,3-Dimethylbutylamine	7908	
+2380	127	Dimethyldiethoxysilane	62322	
+2381	131	Dimethyl disulfide	12232	
+2381	131	Dimethyl disulphide	12232	
+2382	131	Dimethylhydrazine, symmetrical	1322	Toxic/poison by inhalation (TIH/PIH)
+2383	132	Dipropylamine	8902	
+2384	127	Di-n-propyl ether	8114	
+2385	129	Ethyl isobutyrate	7342	
+2386	132	1-Ethylpiperidine	13007	
+2387	130	Fluorobenzene	10008	
+2388	130	Fluorotoluenes	-	
+2389	128	Furan	8029	
+2390	129	2-Iodobutane	10559	
+2391	129	Iodomethylpropanes	-	
+2392	129	Iodopropanes	33643	
+2393	129	Isobutyl formate	10957	
+2394	129	Isobutyl propionate	10895	
+2395	155	Isobutyryl chloride	62325	Water-reactive material (WR)
+2396	131P	Methacrylaldehyde, stabilized	6562	
+2397	127	3-Methylbutan-2-one	11251	
+2398	127	Methyl tert-butyl ether	15413	
+2399	132	1-Methylpiperidine	12291	
+2400	130	Methyl isovalerate	11160	
+2401	132	Piperidine	8082	
+2402	130	Propanethiols	7848	
+2403	129P	Isopropenyl acetate	7916	
+2404	131	Propionitrile	7854	
+2405	129	Isopropyl butyrate	61184	
+2406	127	Isopropyl isobutyrate	12044	
+2407	155	Isopropyl chloroformate	7917	Toxic/poison by inhalation (TIH/PIH)
+2409	129	Isopropyl propionate	12508	
+2410	129	1,2,3,6-Tetrahydropyridine	12750	
+2411	131	Butyronitrile	8008	
+2412	130	Tetrahydrothiophene	1127	
+2413	128	Tetrapropyl orthotitanate	9903917	
+2414	130	Thiophene	8030	
+2416	129	Trimethyl borate	8470	
+2417	125	Carbonyl fluoride	9623	Toxic/poison by inhalation (TIH/PIH)
+2418	125	Sulfur tetrafluoride	24555	Toxic/poison by inhalation (TIH/PIH)
+2418	125	Sulphur tetrafluoride	24555	Toxic/poison by inhalation (TIH/PIH)
+2419	116	Bromotrifluoroethylene	11730	
+2420	125	Hexafluoroacetone	12695	Toxic/poison by inhalation (TIH/PIH)
+2421	124	Nitrogen trioxide	61526	Toxic/poison by inhalation (TIH/PIH)
+2422	126	Octafluorobut-2-ene	2775851	
+2422	126	Refrigerant gas R-1318	2775851	
+2424	126	Octafluoropropane	6432	
+2424	126	Refrigerant gas R-218	6432	
+2426	140	Ammonium nitrate, liquid (hot concentrated solution)	22985	
+2427	140	Potassium chlorate, aqueous solution	6426889	
+2428	140	Sodium chlorate, aqueous solution	516902	
+2429	140	Calcium chlorate, aqueous solution	24978	
+2430	153	Alkylphenols, solid, n.o.s. (including C2-C12 homologues)	-	
+2431	153	Anisidines	-	
+2432	153	N,N-Diethylaniline	7061	
+2433	152	Chloronitrotoluenes, liquid	-	
+2434	156	Dibenzyldichlorosilane	15724263	Water-reactive material (WR)
+2435	156	Ethylphenyldichlorosilane	14304	Water-reactive material (WR)
+2436	129	Thioacetic acid	10484	
+2437	156	Methylphenyldichlorosilane	9006	Water-reactive material (WR)
+2438	131	Trimethylacetyl chloride	62493	Toxic/poison by inhalation (TIH/PIH)
+2439	154	Sodium hydrogendifluoride	219061	
+2440	154	Stannic chloride, pentahydrate	61442	
+2441	135	Titanium trichloride, pyrophoric	-	
+2441	135	Titanium trichloride mixture, pyrophoric	-	
+2442	156	Trichloroacetyl chloride	6420	Toxic/poison by inhalation (TIH/PIH)
+2443	137	Vanadium oxytrichloride	24410	
+2444	137	Vanadium tetrachloride	24273	
+2446	153	Nitrocresols, solid	-	
+2447	136	Phosphorus, white, molten	-	
+2447	136	White phosphorus, molten	-	
+2448	133	Molten sulfur	-	
+2448	133	Molten sulphur	-	
+2448	133	Sulfur, molten	402	
+2448	133	Sulphur, molten	-	
+2451	122	Nitrogen trifluoride	24553	
+2452	116P	Ethylacetylene, stabilized	7846	
+2453	115	Ethyl fluoride	9620	
+2453	115	Refrigerant gas R-161	9620	
+2454	115	Methyl fluoride	11638	
+2454	115	Refrigerant gas R-41	11638	
+2455	116	Methyl nitrite	12231	
+2456	130P	2-Chloropropene	11203	
+2457	128	2,3-Dimethylbutane	6589	
+2458	130	Hexadiene	11602	
+2459	128	2-Methyl-1-butene	11240	
+2460	128	2-Methyl-2-butene	10553	
+2461	128	Methylpentadiene	13555	
+2463	138	Aluminum hydride	14488	
+2464	141	Beryllium nitrate	26126	
+2465	140	Dichloroisocyanuric acid, dry	16726	
+2465	140	Dichloroisocyanuric acid salts	-	
+2465	140	Sodium dichloroisocyanurate	517202	
+2465	140	Sodium dichloro-s-triazinetrione	517202	
+2466	143	Potassium superoxide	61541	
+2468	140	Trichloroisocyanuric acid, dry	6909	
+2469	140	Zinc bromate	61749	
+2470	152	Phenylacetonitrile, liquid	8794	
+2471	154	Osmium tetroxide	30318	
+2473	154	Sodium arsanilate	23670523	
+2474	156	Thiophosgene	10040	Toxic/poison by inhalation (TIH/PIH)
+2475	157	Vanadium trichloride	62647	
+2477	131	Methyl isothiocyanate	11167	Toxic/poison by inhalation (TIH/PIH)
+2478	155	Isocyanate solution, flammable, poisonous, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+2478	155	Isocyanate solution, flammable, toxic, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+2478	155	Isocyanates, flammable, poisonous, n.o.s.	105034	Toxic/poison by inhalation (TIH/PIH)
+2478	155	Isocyanates, flammable, toxic, n.o.s.	105034	Toxic/poison by inhalation (TIH/PIH)
+2480	155P	Methyl isocyanate	12228	Toxic/poison by inhalation (TIH/PIH)
+2481	155	Ethyl isocyanate	8022	Toxic/poison by inhalation (TIH/PIH)
+2482	155P	n-Propyl isocyanate	61033	Toxic/poison by inhalation (TIH/PIH)
+2483	155P	Isopropyl isocyanate	61277	Toxic/poison by inhalation (TIH/PIH)
+2484	155	tert-Butyl isocyanate	62412	Toxic/poison by inhalation (TIH/PIH)
+2485	155P	n-Butyl isocyanate	8110	Toxic/poison by inhalation (TIH/PIH)
+2486	155P	Isobutyl isocyanate	61281	Toxic/poison by inhalation (TIH/PIH)
+2487	155	Phenyl isocyanate	7672	Toxic/poison by inhalation (TIH/PIH)
+2488	155	Cyclohexyl isocyanate	18502	Toxic/poison by inhalation (TIH/PIH)
+2490	153	Dichloroisopropyl ether	38307	
+2491	153	Ethanolamine	700	
+2491	153	Ethanolamine, solution	700	
+2491	153	Monoethanolamine	700	
+2493	132	Hexamethyleneimine	8119	
+2495	144	Iodine pentafluoride	522683	Water-reactive material (WR)
+2496	156	Propionic anhydride	31263	
+2498	129	1,2,3,6-Tetrahydrobenzaldehyde	7508	
+2501	152	Tris-(1-aziridinyl)phosphine oxide, solution	11016	
+2502	132	Valeryl chloride	61186	
+2503	137	Zirconium tetrachloride	24817	
+2504	159	Acetylene tetrabromide	6588	
+2504	159	Tetrabromoethane	61179	
+2505	154	Ammonium fluoride	25516	
+2506	154	Ammonium hydrogen sulfate	24655	
+2506	154	Ammonium hydrogen sulphate	24655	
+2507	154	Chloroplatinic acid, solid	61859	
+2508	156	Molybdenum pentachloride	61497	
+2509	154	Potassium hydrogen sulfate	516920	
+2509	154	Potassium hydrogen sulphate	516920	
+2511	153	2-Chloropropionic acid	11734	
+2512	152	Aminophenols	-	
+2513	156	Bromoacetyl bromide	61147	
+2514	130	Bromobenzene	7961	
+2515	159	Bromoform	5558	
+2516	151	Carbon tetrabromide	11205	
+2517	115	1-Chloro-1,1-difluoroethane	6388	
+2517	115	Difluorochloroethanes	-	
+2517	115	Refrigerant gas R-142b	6388	
+2518	153	1,5,9-Cyclododecatriene	12668	
+2520	130P	Cyclooctadienes	299882	
+2521	131P	Diketene, stabilized	12661	Toxic/poison by inhalation (TIH/PIH)
+2522	153P	2-Dimethylaminoethyl methacrylate, stabilized	17869	
+2524	129	Ethyl orthoformate	31214	
+2525	156	Ethyl oxalate	7268	
+2526	132	Furfurylamine	3438	
+2527	129P	Isobutyl acrylate, stabilized	7819	
+2528	130	Isobutyl isobutyrate	7351	
+2529	132	Isobutyric acid	6590	
+2531	153P	Methacrylic acid, stabilized	4093	
+2533	156	Methyl trichloroacetate	11739	
+2534	119	Methylchlorosilane	61244	Toxic/poison by inhalation (TIH/PIH)
+2535	132	4-Methylmorpholine	7972	
+2535	132	N-Methylmorpholine	7972	
+2536	127	Methyltetrahydrofuran	7301	
+2538	133	Nitronaphthalene	6849	
+2541	128	Terpinolene	11463	
+2542	153	Tributylamine	7622	
+2545	135	Hafnium powder, dry	23986	
+2546	135	Titanium powder, dry	23963	
+2547	143	Sodium superoxide	61542	
+2548	124	Chlorine pentafluoride	61654	Toxic/poison by inhalation (TIH/PIH)
+2552	151	Hexafluoroacetone hydrate, liquid	69617	
+2554	130P	Methylallyl chloride	11241	
+2555	113	Nitrocellulose with water, not less than 25% water	-	
+2556	113	Nitrocellulose with alcohol, not less than 25% alcohol	-	
+2557	133	Nitrocellulose mixture, with or without pigment	-	
+2557	133	Nitrocellulose mixture, with or without plasticizer	-	
+2558	131	Epibromohydrin	18430	
+2560	129	2-Methylpentan-2-ol	11543	
+2561	128	3-Methyl-1-butene	11239	
+2564	153	Trichloroacetic acid, solution	6421	
+2565	153	Dicyclohexylamine	7582	
+2567	154	Sodium pentachlorophenate	23663539	
+2570	154	Cadmium compound	-	
+2571	156	Alkylsulfuric acids	-	
+2571	156	Alkylsulphuric acids	-	
+2572	153	Phenylhydrazine	7516	
+2573	141	Thallium chlorate	61610	
+2574	151	Tricresyl phosphate	6529	
+2576	137	Phosphorus oxybromide, molten	24613	
+2577	156	Phenylacetyl chloride	7679	
+2578	157	Phosphorus trioxide	14810	
+2579	153	Piperazine	4837	
+2580	154	Aluminum bromide, solution	24409	
+2581	154	Aluminum chloride, solution	24012	
+2582	154	Ferric chloride, solution	24380	
+2583	153	Alkyl sulfonic acids, solid, with more than 5% free sulfuric acid	-	
+2583	153	Alkyl sulphonic acids, solid, with more than 5% free sulphuric acid	-	
+2583	153	Aryl sulfonic acids, solid, with more than 5% free sulfuric acid	-	
+2583	153	Aryl sulphonic acids, solid, with more than 5% free sulphuric acid	-	
+2584	153	Alkyl sulfonic acids, liquid, with more than 5% free sulfuric acid	-	
+2584	153	Alkyl sulphonic acids, liquid, with more than 5% free sulphuric acid	-	
+2584	153	Aryl sulfonic acids, liquid, with more than 5% free sulfuric acid	-	
+2584	153	Aryl sulphonic acids, liquid, with more than 5% free sulphuric acid	-	
+2585	153	Alkyl sulfonic acids, solid, with not more than 5% free sulfuric acid	-	
+2585	153	Alkyl sulphonic acids, solid, with not more than 5% free sulphuric acid	-	
+2585	153	Aryl sulfonic acids, solid, with not more than 5% free sulfuric acid	-	
+2585	153	Aryl sulphonic acids, solid, with not more than 5% free sulphuric acid	-	
+2586	153	Alkyl sulfonic acids, liquid, with not more than 5% free sulfuric acid	-	
+2586	153	Alkyl sulphonic acids, liquid, with not more than 5% free sulphuric acid	-	
+2586	153	Aryl sulfonic acids, liquid, with not more than 5% free sulfuric acid	-	
+2586	153	Aryl sulphonic acids, liquid, with not more than 5% free sulphuric acid	-	
+2587	153	Benzoquinone	4650	
+2588	151	Pesticide, solid, poisonous, n.o.s.	-	
+2588	151	Pesticide, solid, toxic, n.o.s.	-	
+2589	155	Vinyl chloroacetate	82156	
+2590	171	Asbestos, chrysotile	-	
+2591	120	Xenon, refrigerated liquid (cryogenic liquid)	23991	
+2599	126	Chlorotrifluoromethane and trifluoromethane azeotropic mixture with approximately 60% chlorotrifluoromethane	-	
+2599	126	Refrigerant gas R-503	-	
+2601	115	Cyclobutane	9250	
+2602	126	Dichlorodifluoromethane and difluoroethane azeotropic mixture with approximately 74% dichlorodifluoromethane	-	
+2602	126	Refrigerant gas R-500	-	
+2603	131	Cycloheptatriene	11000	
+2604	132	Boron trifluoride diethyl etherate	517922	
+2605	155	Methoxymethyl isocyanate	62609	Toxic/poison by inhalation (TIH/PIH)
+2606	155	Methyl orthosilicate	12682	Toxic/poison by inhalation (TIH/PIH)
+2607	129P	Acrolein dimer, stabilized	60994	
+2608	129	Nitropropanes	-	
+2609	156	Triallyl borate	62415	
+2610	132	Triallylamine	7617	
+2611	131	Propylene chlorohydrin	6566	
+2612	127	Methyl propyl ether	11182	
+2614	129	Methallyl alcohol	10557	
+2615	127	Ethyl propyl ether	12340	
+2616	129	Triisopropyl borate	21531	
+2617	129	Methylcyclohexanols	87468080	
+2618	130P	Vinyltoluenes, stabilized	-	
+2619	132	Benzyldimethylamine	7681	
+2620	130	Amyl butyrates	-	
+2621	127	Acetyl methyl carbinol	179	
+2622	131P	Glycidaldehyde	13002	
+2623	133	Firelighters, solid, with flammable liquid	-	
+2624	138	Magnesium silicide	89858	
+2626	140	Chloric acid, aqueous solution, with not more than 10% chloric acid	19654	
+2627	140	Nitrites, inorganic, n.o.s.	-	
+2628	151	Potassium fluoroacetate	23685976	
+2629	151	Sodium fluoroacetate	16212360	
+2630	151	Selenates	-	
+2630	151	Selenites	-	
+2642	154	Fluoroacetic acid	5237	
+2643	153	Methyl bromoacetate	60984	
+2644	151	Methyl iodide	6328	Toxic/poison by inhalation (TIH/PIH)
+2645	153	Phenacyl bromide	6259	
+2646	151	Hexachlorocyclopentadiene	6478	Toxic/poison by inhalation (TIH/PIH)
+2647	153	Malononitrile	8010	
+2648	154	1,2-Dibromobutan-3-one	62791	
+2649	153	1,3-Dichloroacetone	10793	
+2650	153	1,1-Dichloro-1-nitroethane	11674	
+2651	153	4,4'-Diaminodiphenylmethane	7577	
+2653	156	Benzyl iodide	12098	
+2655	151	Potassium fluorosilicate	61851	
+2656	154	Quinoline	7047	
+2657	153	Selenium disulfide	24087	
+2657	153	Selenium disulphide	24087	
+2659	151	Sodium chloroacetate	23665759	
+2660	153	Mononitrotoluidines	-	
+2660	153	Nitrotoluidines (mono)	-	
+2661	153	Hexachloroacetone	8303	
+2664	160	Dibromomethane	3024	
+2667	152	Butyltoluenes	-	
+2668	131	Chloroacetonitrile	7856	Toxic/poison by inhalation (TIH/PIH)
+2669	152	Chlorocresols, solution	-	
+2670	157	Cyanuric chloride	7954	
+2671	153	Aminopyridines	10439	
+2672	154	Ammonia solution, with more than 10% but not more than 35% ammonia	-	
+2672	154	Ammonium hydroxide, with more than 10% but not more than 35% ammonia	14923	
+2673	151	2-Amino-4-chlorophenol	7265	
+2674	154	Sodium fluorosilicate	28127	
+2676	119	Stibine	9359	Toxic/poison by inhalation (TIH/PIH)
+2677	154	Rubidium hydroxide, solution	62393	
+2678	154	Rubidium hydroxide, solid	62393	
+2679	154	Lithium hydroxide, solution	3939	
+2680	154	Lithium hydroxide	3939	
+2681	154	Caesium hydroxide, solution	62750	
+2681	154	Cesium hydroxide, solution	62750	
+2682	157	Caesium hydroxide	62750	
+2682	157	Cesium hydroxide	62750	
+2683	132	Ammonium sulfide, solution	25519	
+2683	132	Ammonium sulphide, solution	25519	
+2684	132	3-Diethylaminopropylamine	61011	
+2685	132	N,N-Diethylethylenediamine	60993	
+2686	132	2-Diethylaminoethanol	7497	
+2687	133	Dicyclohexylammonium nitrite	241753	
+2688	159	1-Bromo-3-chloropropane	8006	
+2689	153	Glycerol alpha-monochlorohydrin	7290	
+2690	152	N,n-Butylimidazole	-	
+2691	137	Phosphorus pentabromide	62678	Water-reactive material (WR)
+2692	157	Boron tribromide	25134	Toxic/poison by inhalation (TIH/PIH); Water-reactive material (WR)
+2693	154	Bisulfites, aqueous solution, n.o.s.	-	
+2693	154	Bisulphites, aqueous solution, n.o.s.	-	
+2698	156	Tetrahydrophthalic anhydrides	6810	
+2699	154	Trifluoroacetic acid	6422	
+2705	153P	1-Pentol	6435822	
+2707	127	Dimethyldioxanes	32803	
+2709	128	Butylbenzenes	-	
+2710	128	Dipropyl ketone	31246	
+2713	153	Acridine	9215	
+2714	133	Zinc resinate	22146572	
+2715	133	Aluminum resinate	44135362	
+2716	153	1,4-Butynediol	8066	
+2717	133	Camphor, synthetic	2537	
+2719	141	Barium bromate	61706	
+2720	141	Chromium nitrate	119064	
+2721	140	Copper chlorate	3014850	
+2722	140	Lithium nitrate	10129889	
+2723	140	Magnesium chlorate	25155	
+2724	140	Manganese nitrate	61511	
+2725	140	Nickel nitrate	25736	
+2726	140	Nickel nitrite	-	
+2727	141	Thallium nitrate	24937	
+2728	140	Zirconium nitrate	26251	
+2729	152	Hexachlorobenzene	8370	
+2730	152	Nitroanisoles, liquid	-	
+2732	152	Nitrobromobenzenes, liquid	-	
+2733	132	Amines, flammable, corrosive, n.o.s.	-	
+2733	132	Polyamines, flammable, corrosive, n.o.s.	-	
+2734	132	Amines, liquid, corrosive, flammable, n.o.s.	-	
+2734	132	Polyamines, liquid, corrosive, flammable, n.o.s.	-	
+2735	153	Amines, liquid, corrosive, n.o.s.	-	
+2735	153	Polyamines, liquid, corrosive, n.o.s.	-	
+2738	153	N-Butylaniline	14310	
+2739	156	Butyric anhydride	7798	
+2740	155	n-Propyl chloroformate	7998	Toxic/poison by inhalation (TIH/PIH)
+2741	141	Barium hypochlorite, with more than 22% available chlorine	61628	
+2742	155	Chloroformates, poisonous, corrosive, flammable, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+2742	155	Chloroformates, toxic, corrosive, flammable, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+2743	155	n-Butyl chloroformate	61140	Toxic/poison by inhalation (TIH/PIH)
+2744	155	Cyclobutyl chloroformate	5362587	
+2745	157	Chloromethyl chloroformate	62754	
+2746	156	Phenyl chloroformate	15891	
+2747	156	tert-Butylcyclohexyl chloroformate	-	
+2748	156	2-Ethylhexyl chloroformate	62783	
+2749	130	Tetramethylsilane	6396	
+2750	153	1,3-Dichloropropanol-2	7289	
+2751	156	Diethylthiophosphoryl chloride	12549197	
+2752	127	1,2-Epoxy-3-ethoxypropane	19919	
+2753	153	N-Ethylbenzyltoluidines, liquid	-	
+2754	153	N-Ethyltoluidines	-	
+2757	151	Carbamate pesticide, solid, poisonous	-	
+2757	151	Carbamate pesticide, solid, toxic	-	
+2758	131	Carbamate pesticide, liquid, flammable, poisonous	-	
+2758	131	Carbamate pesticide, liquid, flammable, toxic	-	
+2759	151	Arsenical pesticide, solid, poisonous	-	
+2759	151	Arsenical pesticide, solid, toxic	-	
+2760	131	Arsenical pesticide, liquid, flammable, poisonous	-	
+2760	131	Arsenical pesticide, liquid, flammable, toxic	-	
+2761	151	Organochlorine pesticide, solid, poisonous	-	
+2761	151	Organochlorine pesticide, solid, toxic	-	
+2762	131	Organochlorine pesticide, liquid, flammable, poisonous	-	
+2762	131	Organochlorine pesticide, liquid, flammable, toxic	-	
+2763	151	Triazine pesticide, solid, poisonous	-	
+2763	151	Triazine pesticide, solid, toxic	-	
+2764	131	Triazine pesticide, liquid, flammable, poisonous	-	
+2764	131	Triazine pesticide, liquid, flammable, toxic	-	
+2771	151	Thiocarbamate pesticide, solid, poisonous	-	
+2771	151	Thiocarbamate pesticide, solid, toxic	-	
+2772	131	Thiocarbamate pesticide, liquid, flammable, poisonous	-	
+2772	131	Thiocarbamate pesticide, liquid, flammable, toxic	-	
+2775	151	Copper based pesticide, solid, poisonous	-	
+2775	151	Copper based pesticide, solid, toxic	-	
+2776	131	Copper based pesticide, liquid, flammable, poisonous	-	
+2776	131	Copper based pesticide, liquid, flammable, toxic	-	
+2777	151	Mercury based pesticide, solid, poisonous	-	
+2777	151	Mercury based pesticide, solid, toxic	-	
+2778	131	Mercury based pesticide, liquid, flammable, poisonous	-	
+2778	131	Mercury based pesticide, liquid, flammable, toxic	-	
+2779	153	Substituted nitrophenol pesticide, solid, poisonous	-	
+2779	153	Substituted nitrophenol pesticide, solid, toxic	-	
+2780	131	Substituted nitrophenol pesticide, liquid, flammable, poisonous	-	
+2780	131	Substituted nitrophenol pesticide, liquid, flammable, toxic	-	
+2781	151	Bipyridilium pesticide, solid, poisonous	-	
+2781	151	Bipyridilium pesticide, solid, toxic	-	
+2782	131	Bipyridilium pesticide, liquid, flammable, poisonous	-	
+2782	131	Bipyridilium pesticide, liquid, flammable, toxic	-	
+2783	152	Organophosphorus pesticide, solid, poisonous	-	
+2783	152	Organophosphorus pesticide, solid, toxic	-	
+2784	131	Organophosphorus pesticide, liquid, flammable, poisonous	-	
+2784	131	Organophosphorus pesticide, liquid, flammable, toxic	-	
+2785	152	4-Thiapentanal	18635	
+2786	153	Organotin pesticide, solid, poisonous	-	
+2786	153	Organotin pesticide, solid, toxic	-	
+2787	131	Organotin pesticide, liquid, flammable, poisonous	-	
+2787	131	Organotin pesticide, liquid, flammable, toxic	-	
+2788	153	Organotin compound, liquid, n.o.s.	-	
+2789	132	Acetic acid, glacial	176	
+2789	132	Acetic acid, solution, more than 80% acid	-	
+2790	153	Acetic acid, solution, more than 10% but not more than 80% acid	-	
+2793	170	Ferrous metal borings, shavings, turnings or cuttings	-	
+2794	154	Batteries, wet, filled with acid	-	
+2795	154	Batteries, wet, filled with alkali	-	
+2796	157	Battery fluid, acid	-	
+2796	157	Sulfuric acid, with not more than 51% acid	1118	
+2796	157	Sulphuric acid, with not more than 51% acid	1118	
+2797	154	Battery fluid, alkali	-	
+2798	137	Benzene phosphorus dichloride	12573	
+2798	137	Phenylphosphorus dichloride	12573	
+2799	137	Benzene phosphorus thiodichloride	19016	
+2799	137	Phenylphosphorus thiodichloride	19016	
+2800	154	Batteries, wet, non-spillable	-	
+2801	154	Dye, liquid, corrosive, n.o.s.	-	
+2801	154	Dye intermediate, liquid, corrosive, n.o.s.	-	
+2802	154	Copper chloride	24014	
+2803	172	Gallium	5360835	
+2805	138	Lithium hydride, fused solid	-	
+2806	139	Lithium nitride	520242	Water-reactive material (WR)
+2807	171	Magnetized material	-	
+2809	172	Mercury	23931	
+2810	153	Compounds, tree or weed killing, liquid (toxic)	-	
+2810	153	Poisonous liquid, organic, n.o.s.	-	
+2810	153	Toxic liquid, organic, n.o.s.	-	
+2811	154	Poisonous solid, organic, n.o.s.	-	
+2811	154	Toxic solid, organic, n.o.s.	-	
+2812	154	Sodium aluminate, solid	14766	
+2813	138	Water-reactive solid, n.o.s.	-	
+2814	158	Infectious substance, affecting humans	-	
+2815	153	N-Aminoethylpiperazine	8795	
+2817	154	Ammonium bifluoride, solution	14935	
+2817	154	Ammonium hydrogendifluoride, solution	14935	
+2818	154	Ammonium polysulfide, solution	-	
+2818	154	Ammonium polysulphide, solution	-	
+2819	153	Amyl acid phosphate	61572	
+2820	153	Butyric acid	264	
+2821	153	Phenol solution	-	
+2822	153	2-Chloropyridine	7977	
+2823	153	Crotonic acid, solid	637090	
+2826	155	Ethyl chlorothioformate	18056	Toxic/poison by inhalation (TIH/PIH)
+2829	153	Caproic acid	8892	
+2829	153	Hexanoic acid	8892	
+2830	139	Lithium ferrosilicon	23663317	
+2831	160	1,1,1-Trichloroethane	6278	
+2834	154	Phosphorous acid	107909	
+2835	138	Sodium aluminum hydride	26266	
+2837	154	Bisulfates, aqueous solution	-	
+2837	154	Bisulphates, aqueous solution	-	
+2837	154	Sodium bisulfate, solution	516919	
+2837	154	Sodium bisulphate, solution	516919	
+2838	129P	Vinyl butyrate, stabilized	31247	
+2839	153	Aldol	7897	
+2840	129	Butyraldoxime	8069	
+2841	131	Di-n-amylamine	16316	
+2842	129	Nitroethane	6587	
+2844	138	Calcium manganese silicon	-	
+2845	135	Ethyl phosphonous dichloride, anhydrous	15157	Toxic/poison by inhalation (TIH/PIH)
+2845	135	Methyl phosphonous dichloride	61194	Toxic/poison by inhalation (TIH/PIH)
+2845	135	Pyrophoric liquid, organic, n.o.s.	-	
+2846	135	Pyrophoric solid, organic, n.o.s.	-	
+2849	153	3-Chloropropanol-1	12313	
+2850	128	Propylene tetramer	22833307	
+2851	157	Boron trifluoride, dihydrate	61591	
+2852	113	Dipicryl sulfide, wetted with not less than 10% water	316175	
+2852	113	Dipicryl sulphide, wetted with not less than 10% water	316175	
+2853	151	Magnesium fluorosilicate	61861	
+2854	151	Ammonium fluorosilicate	28145	
+2854	151	Ammonium silicofluoride	28145	
+2855	151	Zinc fluorosilicate	28116	
+2855	151	Zinc silicofluoride	-	
+2856	151	Fluorosilicates, n.o.s.	-	
+2857	126	Refrigerating machines, containing ammonia solutions (UN2672)	-	
+2857	126	Refrigerating machines, containing non-flammable, non-poisonous gases	-	
+2857	126	Refrigerating machines, containing non-flammable, non-toxic gases	-	
+2858	170	Zirconium, dry, coiled wire, finished metal sheets, strip	-	
+2859	154	Ammonium metavanadate	516859	
+2861	151	Ammonium polyvanadate	-	
+2862	151	Vanadium pentoxide	14814	
+2863	154	Sodium ammonium vanadate	176238	
+2864	151	Potassium metavanadate	4571336	
+2865	154	Hydroxylamine sulfate	24846	
+2865	154	Hydroxylamine sulphate	24846	
+2869	157	Titanium trichloride mixture	62646	
+2870	135	Aluminum borohydride	6328559	
+2870	135	Aluminum borohydride in devices	-	
+2871	170	Antimony powder	5354495	
+2872	159	Dibromochloropropanes	-	
+2873	153	Dibutylaminoethanol	7621	
+2874	153	Furfuryl alcohol	7361	
+2875	151	Hexachlorophene	3598	
+2876	153	Resorcinol	5054	
+2878	170	Titanium sponge granules	-	
+2878	170	Titanium sponge powders	-	
+2879	157	Selenium oxychloride	24647	
+2880	140	Calcium hypochlorite, hydrated, with not less than 5.5% but not more than 16% water	24504	
+2880	140	Calcium hypochlorite, hydrated mixture, with not less than 5.5% but not more than 16% water	24504	
+2881	135	Metal catalyst, dry	-	
+2881	135	Nickel catalyst, dry	935	
+2900	158	Infectious substance, affecting animals only	-	
+2901	124	Bromine chloride	61697	Toxic/poison by inhalation (TIH/PIH)
+2902	151	Pesticide, liquid, poisonous, n.o.s.	-	
+2902	151	Pesticide, liquid, toxic, n.o.s.	-	
+2903	131	Pesticide, liquid, poisonous, flammable, n.o.s.	-	
+2903	131	Pesticide, liquid, toxic, flammable, n.o.s.	-	
+2904	154	Chlorophenolates, liquid	-	
+2904	154	Phenolates, liquid	-	
+2905	154	Chlorophenolates, solid	-	
+2905	154	Phenolates, solid	-	
+2907	133	Isosorbide dinitrate mixture	6883	
+2908	161	Radioactive material, excepted package, empty packaging	-	
+2909	161	Radioactive material, excepted package, articles manufactured from depleted uranium	-	
+2909	161	Radioactive material, excepted package, articles manufactured from natural thorium	-	
+2909	161	Radioactive material, excepted package, articles manufactured from natural uranium	-	
+2910	161	Radioactive material, excepted package, limited quantity of material	-	
+2911	161	Radioactive material, excepted package, articles	-	
+2911	161	Radioactive material, excepted package, instruments	-	
+2912	162	Radioactive material, low specific activity (LSA-I), non fissile or fissile-excepted	-	
+2913	162	Radioactive material, surface contaminated objects (SCO-I, SCO-II or SCO-III), non fissile or fissile-excepted	-	
+2915	163	Radioactive material, Type A package, non-special form, non fissile or fissile-excepted	-	
+2916	163	Radioactive material, Type B(U) package, non fissile or fissile-excepted	-	
+2917	163	Radioactive material, Type B(M) package, non fissile or fissile-excepted	-	
+2919	163	Radioactive material, transported under special arrangement, non fissile or fissile-excepted	-	
+2920	132	Corrosive liquid, flammable, n.o.s.	-	
+2921	134	Corrosive solid, flammable, n.o.s.	-	
+2922	154	Corrosive liquid, poisonous, n.o.s.	-	
+2922	154	Corrosive liquid, toxic, n.o.s.	-	
+2923	154	Corrosive solid, poisonous, n.o.s.	-	
+2923	154	Corrosive solid, toxic, n.o.s.	-	
+2924	132	Flammable liquid, corrosive, n.o.s.	-	
+2925	134	Flammable solid, corrosive, organic, n.o.s.	-	
+2926	134	Flammable solid, poisonous, organic, n.o.s.	-	
+2926	134	Flammable solid, toxic, organic, n.o.s.	-	
+2927	154	Ethyl phosphonothioic dichloride, anhydrous	61246	Toxic/poison by inhalation (TIH/PIH)
+2927	154	Ethyl phosphorodichloridate	15158	Toxic/poison by inhalation (TIH/PIH)
+2927	154	Poisonous liquid, corrosive, organic, n.o.s.	-	
+2927	154	Toxic liquid, corrosive, organic, n.o.s.	-	
+2928	154	Poisonous solid, corrosive, organic, n.o.s.	-	
+2928	154	Toxic solid, corrosive, organic, n.o.s.	-	
+2929	131	Poisonous liquid, flammable, organic, n.o.s.	-	
+2929	131	Toxic liquid, flammable, organic, n.o.s.	-	
+2930	134	Poisonous solid, flammable, organic, n.o.s.	-	
+2930	134	Toxic solid, flammable, organic, n.o.s.	-	
+2931	151	Vanadyl sulfate	34007	
+2931	151	Vanadyl sulphate	34007	
+2933	129	Methyl 2-chloropropionate	28659	
+2934	129	Isopropyl 2-chloropropionate	170270	
+2935	129	Ethyl 2-chloropropionate	10807	
+2936	153	Thiolactic acid	62326	
+2937	153	alpha-Methylbenzyl alcohol, liquid	7409	
+2937	153	Methylbenzyl (alpha) alcohol, liquid	7409	
+2940	135	Cyclooctadiene phosphines	-	
+2940	135	9-Phosphabicyclononanes	-	
+2941	153	Fluoroanilines	9731	
+2942	153	2-Trifluoromethylaniline	6922	
+2943	129	Tetrahydrofurfurylamine	253298	
+2945	132	N-Methylbutylamine	8068	
+2946	153	2-Amino-5-diethylaminopentane	78953	
+2947	127	Isopropyl chloroacetate	7759	
+2948	153	3-Trifluoromethylaniline	7375	
+2949	154	Sodium hydrosulfide, hydrated, with not less than 25% water of crystallization	28015	
+2949	154	Sodium hydrosulfide, with not less than 25% water of crystallization	28015	
+2949	154	Sodium hydrosulphide, hydrated, with not less than 25% water of crystallization	28015	
+2949	154	Sodium hydrosulphide, with not less than 25% water of crystallization	28015	
+2950	138	Magnesium granules, coated	-	
+2956	149	5-tert-Butyl-2,4,6-trinitro-m-xylene	62329	
+2956	149	Musk xylene	62329	
+2965	139	Boron trifluoride dimethyl etherate	2724165	Water-reactive material (WR)
+2966	153	Thioglycol	1567	
+2967	154	Sulfamic acid	5987	
+2967	154	Sulphamic acid	5987	
+2968	135	Maneb, stabilized	3032581	
+2968	135	Maneb preparation, stabilized	-	
+2969	171	Castor beans, meal, pomace or flake	-	
+2977	166	Radioactive material, uranium hexafluoride, fissile	-	Water-reactive material (WR)
+2977	166	Uranium hexafluoride, radioactive material, fissile	-	Water-reactive material (WR)
+2978	166	Radioactive material, uranium hexafluoride, non fissile or fissile-excepted	-	Water-reactive material (WR)
+2978	166	Uranium hexafluoride, radioactive material, non fissile or fissile-excepted	-	Water-reactive material (WR)
+2983	131P	Ethylene oxide and propylene oxide mixture, with not more than 30% ethylene oxide	-	
+2984	140	Hydrogen peroxide, aqueous solution, with not less than 8% but less than 20% hydrogen peroxide	784	
+2985	155	Chlorosilanes, flammable, corrosive, n.o.s.	-	Water-reactive material (WR)
+2986	155	Chlorosilanes, corrosive, flammable, n.o.s.	-	Water-reactive material (WR)
+2987	156	Chlorosilanes, corrosive, n.o.s.	-	Water-reactive material (WR)
+2988	139	Chlorosilanes, water-reactive, flammable, corrosive, n.o.s.	-	Water-reactive material (WR)
+2989	133	Lead phosphite, dibasic	71300865	
+2990	171	Life-saving appliances, self-inflating	-	
+2991	131	Carbamate pesticide, liquid, poisonous, flammable	-	
+2991	131	Carbamate pesticide, liquid, toxic, flammable	-	
+2992	151	Carbamate pesticide, liquid, poisonous	-	
+2992	151	Carbamate pesticide, liquid, toxic	-	
+2993	131	Arsenical pesticide, liquid, poisonous, flammable	-	
+2993	131	Arsenical pesticide, liquid, toxic, flammable	-	
+2994	151	Arsenical pesticide, liquid, poisonous	-	
+2994	151	Arsenical pesticide, liquid, toxic	-	
+2995	131	Organochlorine pesticide, liquid, poisonous, flammable	-	
+2995	131	Organochlorine pesticide, liquid, toxic, flammable	-	
+2996	151	Organochlorine pesticide, liquid, poisonous	-	
+2996	151	Organochlorine pesticide, liquid, toxic	-	
+2997	131	Triazine pesticide, liquid, poisonous, flammable	-	
+2997	131	Triazine pesticide, liquid, toxic, flammable	-	
+2998	151	Triazine pesticide, liquid, poisonous	-	
+2998	151	Triazine pesticide, liquid, toxic	-	
+3002	151	Phenyl urea pesticides, liquid, poisonous	-	
+3002	151	Phenyl urea pesticides, liquid, toxic	-	
+3005	131	Thiocarbamate pesticide, liquid, poisonous, flammable	-	
+3005	131	Thiocarbamate pesticide, liquid, toxic, flammable	-	
+3006	151	Thiocarbamate pesticide, liquid, poisonous	-	
+3006	151	Thiocarbamate pesticide, liquid, toxic	-	
+3009	131	Copper based pesticide, liquid, poisonous, flammable	-	
+3009	131	Copper based pesticide, liquid, toxic, flammable	-	
+3010	151	Copper based pesticide, liquid, poisonous	-	
+3010	151	Copper based pesticide, liquid, toxic	-	
+3011	131	Mercury based pesticide, liquid, poisonous, flammable	-	
+3011	131	Mercury based pesticide, liquid, toxic, flammable	-	
+3012	151	Mercury based pesticide, liquid, poisonous	-	
+3012	151	Mercury based pesticide, liquid, toxic	-	
+3013	131	Substituted nitrophenol pesticide, liquid, poisonous, flammable	-	
+3013	131	Substituted nitrophenol pesticide, liquid, toxic, flammable	-	
+3014	153	Substituted nitrophenol pesticide, liquid, poisonous	-	
+3014	153	Substituted nitrophenol pesticide, liquid, toxic	-	
+3015	131	Bipyridilium pesticide, liquid, poisonous, flammable	-	
+3015	131	Bipyridilium pesticide, liquid, toxic, flammable	-	
+3016	151	Bipyridilium pesticide, liquid, poisonous	-	
+3016	151	Bipyridilium pesticide, liquid, toxic	-	
+3017	131	Organophosphorus pesticide, liquid, poisonous, flammable	-	
+3017	131	Organophosphorus pesticide, liquid, toxic, flammable	-	
+3018	152	Organophosphorus pesticide, liquid, poisonous	-	
+3018	152	Organophosphorus pesticide, liquid, toxic	-	
+3019	131	Organotin pesticide, liquid, poisonous, flammable	-	
+3019	131	Organotin pesticide, liquid, toxic, flammable	-	
+3020	153	Organotin pesticide, liquid, poisonous	-	
+3020	153	Organotin pesticide, liquid, toxic	-	
+3021	131	Pesticide, liquid, flammable, poisonous, n.o.s.	-	
+3021	131	Pesticide, liquid, flammable, toxic, n.o.s.	-	
+3022	127P	1,2-Butylene oxide, stabilized	7834	
+3023	131	2-Methyl-2-heptanethiol	69810	Toxic/poison by inhalation (TIH/PIH)
+3024	131	Coumarin derivative pesticide, liquid, flammable, poisonous	-	
+3024	131	Coumarin derivative pesticide, liquid, flammable, toxic	-	
+3025	131	Coumarin derivative pesticide, liquid, poisonous, flammable	-	
+3025	131	Coumarin derivative pesticide, liquid, toxic, flammable	-	
+3026	151	Coumarin derivative pesticide, liquid, poisonous	-	
+3026	151	Coumarin derivative pesticide, liquid, toxic	-	
+3027	151	Coumarin derivative pesticide, solid, poisonous	-	
+3027	151	Coumarin derivative pesticide, solid, toxic	-	
+3028	154	Batteries, dry, containing potassium hydroxide solid	-	
+3048	157	Aluminum phosphide pesticide	30332	Water-reactive material (WR)
+3054	129	Cyclohexanethiol	15290	
+3054	129	Cyclohexyl mercaptan	15290	
+3055	154	2-(2-Aminoethoxy)ethanol	13578	
+3056	129	n-Heptaldehyde	8130	
+3057	125	Trifluoroacetyl chloride	61106	Toxic/poison by inhalation (TIH/PIH)
+3064	127	Nitroglycerin, solution in alcohol, with more than 1% but not more than 5% nitroglycerin	4510	
+3065	127	Alcoholic beverages	-	
+3066	153	Paint (corrosive)	-	
+3066	153	Paint related material (corrosive)	-	
+3070	126	Ethylene oxide and dichlorodifluoromethane mixture, with not more than 12.5% ethylene oxide	-	
+3071	131	Mercaptan mixture, liquid, poisonous, flammable, n.o.s.	-	
+3071	131	Mercaptan mixture, liquid, toxic, flammable, n.o.s.	-	
+3071	131	Mercaptans, liquid, poisonous, flammable, n.o.s.	402	
+3071	131	Mercaptans, liquid, toxic, flammable, n.o.s.	402	
+3072	171	Life-saving appliances, not self-inflating	-	
+3073	131P	Vinylpyridines, stabilized	-	
+3077	171	Environmentally hazardous substance, solid, n.o.s.	-	
+3077	171	Hazardous waste, solid, n.o.s.	-	
+3077	171	Other regulated substances, solid, n.o.s.	-	
+3078	138	Cerium, turnings or gritty powder	23974	
+3079	131P	Methacrylonitrile, stabilized	31368	Toxic/poison by inhalation (TIH/PIH)
+3080	155	Isocyanate solution, poisonous, flammable, n.o.s.	-	
+3080	155	Isocyanate solution, toxic, flammable, n.o.s.	-	
+3080	155	Isocyanates, poisonous, flammable, n.o.s.	105034	
+3080	155	Isocyanates, toxic, flammable, n.o.s.	105034	
+3082	171	Environmentally hazardous substance, liquid, n.o.s.	-	
+3082	171	Hazardous waste, liquid, n.o.s.	-	
+3082	171	Other regulated substances, liquid, n.o.s.	-	
+3083	124	Perchloryl fluoride	24258	Toxic/poison by inhalation (TIH/PIH)
+3084	157	Corrosive solid, oxidizing, n.o.s.	-	
+3085	140	Oxidizing solid, corrosive, n.o.s.	-	
+3086	141	Poisonous solid, oxidizing, n.o.s.	-	
+3086	141	Toxic solid, oxidizing, n.o.s.	-	
+3087	141	Oxidizing solid, poisonous, n.o.s.	-	
+3087	141	Oxidizing solid, toxic, n.o.s.	-	
+3088	135	Self-heating solid, organic, n.o.s.	-	
+3089	170	Metal powder, flammable, n.o.s.	-	
+3090	138	Lithium metal batteries (including lithium alloy batteries)	-	
+3091	138	Lithium metal batteries contained in equipment (including lithium alloy batteries)	-	
+3091	138	Lithium metal batteries packed with equipment (including lithium alloy batteries)	-	
+3092	129	1-Methoxy-2-propanol	7900	
+3093	157	Corrosive liquid, oxidizing, n.o.s.	-	
+3094	138	Corrosive liquid, water-reactive, n.o.s.	-	
+3095	136	Corrosive solid, self-heating, n.o.s.	-	
+3096	138	Corrosive solid, water-reactive, n.o.s.	-	
+3097	140	Flammable solid, oxidizing, n.o.s.	-	
+3098	140	Oxidizing liquid, corrosive, n.o.s.	-	
+3099	142	Oxidizing liquid, poisonous, n.o.s.	-	
+3099	142	Oxidizing liquid, toxic, n.o.s.	-	
+3100	135	Oxidizing solid, self-heating, n.o.s.	-	
+3101	146	Organic peroxide type B, liquid	-	
+3102	146	Organic peroxide type B, solid	-	
+3103	146	Organic peroxide type C, liquid	-	
+3104	146	Organic peroxide type C, solid	-	
+3105	145	Organic peroxide type D, liquid	-	
+3106	145	Organic peroxide type D, solid	-	
+3107	145	Organic peroxide type E, liquid	-	
+3108	145	Organic peroxide type E, solid	-	
+3109	145	Organic peroxide type F, liquid	-	
+3110	145	Organic peroxide type F, solid	-	
+3111	148	Organic peroxide type B, liquid, temperature controlled	-	
+3112	148	Organic peroxide type B, solid, temperature controlled	-	
+3113	148	Organic peroxide type C, liquid, temperature controlled	-	
+3114	148	Organic peroxide type C, solid, temperature controlled	-	
+3115	148	Organic peroxide type D, liquid, temperature controlled	-	
+3116	148	Organic peroxide type D, solid, temperature controlled	-	
+3117	148	Organic peroxide type E, liquid, temperature controlled	-	
+3118	148	Organic peroxide type E, solid, temperature controlled	-	
+3119	148	Organic peroxide type F, liquid, temperature controlled	-	
+3120	148	Organic peroxide type F, solid, temperature controlled	-	
+3121	144	Oxidizing solid, water-reactive, n.o.s.	-	
+3122	142	Poisonous liquid, oxidizing, n.o.s.	-	
+3122	142	Toxic liquid, oxidizing, n.o.s.	-	
+3123	139	Poisonous liquid, water-reactive, n.o.s.	-	
+3123	139	Toxic liquid, water-reactive, n.o.s.	-	
+3124	136	Poisonous solid, self-heating, n.o.s.	-	
+3124	136	Toxic solid, self-heating, n.o.s.	-	
+3125	139	Poisonous solid, water-reactive, n.o.s.	-	
+3125	139	Toxic solid, water-reactive, n.o.s.	-	
+3126	136	Self-heating solid, corrosive, organic, n.o.s.	-	
+3127	135	Self-heating solid, oxidizing, n.o.s.	-	
+3128	136	Self-heating solid, poisonous, organic, n.o.s.	-	
+3128	136	Self-heating solid, toxic, organic, n.o.s.	-	
+3129	138	Water-reactive liquid, corrosive, n.o.s.	-	
+3130	139	Water-reactive liquid, poisonous, n.o.s.	-	
+3130	139	Water-reactive liquid, toxic, n.o.s.	-	
+3131	138	Water-reactive solid, corrosive, n.o.s.	-	
+3132	138	Water-reactive solid, flammable, n.o.s.	-	
+3133	138	Water-reactive solid, oxidizing, n.o.s.	-	
+3134	139	Water-reactive solid, poisonous, n.o.s.	-	
+3134	139	Water-reactive solid, toxic, n.o.s.	-	
+3135	138	Water-reactive solid, self-heating, n.o.s.	-	
+3136	120	Trifluoromethane, refrigerated liquid	6373	
+3137	140	Oxidizing solid, flammable, n.o.s.	-	
+3138	115	Ethylene, acetylene and propylene mixture, refrigerated liquid containing at least 71.5% ethylene with not more than 22.5% acetylene and not more than 6% propylene	-	
+3139	140	Oxidizing liquid, n.o.s.	-	
+3140	151	Alkaloids, liquid, n.o.s. (poisonous)	-	
+3140	151	Alkaloid salts, liquid, n.o.s. (poisonous)	-	
+3141	157	Antimony compound, inorganic, liquid, n.o.s.	-	
+3142	151	Disinfectant, liquid, poisonous, n.o.s.	-	
+3142	151	Disinfectant, liquid, toxic, n.o.s.	-	
+3143	151	Dye, solid, poisonous, n.o.s.	2189414	
+3143	151	Dye, solid, toxic, n.o.s.	2189414	
+3143	151	Dye intermediate, solid, poisonous, n.o.s.	-	
+3143	151	Dye intermediate, solid, toxic, n.o.s.	-	
+3144	151	Nicotine compound, liquid, n.o.s.	-	
+3144	151	Nicotine preparation, liquid, n.o.s.	-	
+3145	153	Alkylphenols, liquid, n.o.s. (including C2-C12 homologues)	-	
+3146	153	Organotin compound, solid, n.o.s.	-	
+3147	154	Dye, solid, corrosive, n.o.s.	-	
+3147	154	Dye intermediate, solid, corrosive, n.o.s.	-	
+3148	138	Water-reactive liquid, n.o.s.	-	
+3149	140	Hydrogen peroxide and peroxyacetic acid mixture, with acid(s), water and not more than 5% peroxyacetic acid, stabilized	-	
+3150	115	Devices, small, hydrocarbon gas powered, with release device	-	
+3150	115	Hydrocarbon gas refills for small devices, with release device	-	
+3151	171	Halogenated monomethyldiphenylmethanes, liquid	-	
+3151	171	Polyhalogenated biphenyls, liquid	-	
+3151	171	Polyhalogenated terphenyls, liquid	-	
+3152	171	Halogenated monomethyldiphenylmethanes, solid	-	
+3152	171	Polyhalogenated biphenyls, solid	-	
+3152	171	Polyhalogenated terphenyls, solid	-	
+3153	115	Perfluoro(methyl vinyl ether)	14474	
+3154	115	Perfluoro(ethyl vinyl ether)	-	
+3155	154	Pentachlorophenol	992	
+3156	122	Compressed gas, oxidizing, n.o.s.	-	
+3157	122	Liquefied gas, oxidizing, n.o.s.	-	
+3158	120	Gas, refrigerated liquid, n.o.s.	4447	
+3159	126	Refrigerant gas R-134a	13129	
+3159	126	1,1,1,2-Tetrafluoroethane	13129	
+3160	119	Liquefied gas, poisonous, flammable, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3160	119	Liquefied gas, poisonous, flammable, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3160	119	Liquefied gas, poisonous, flammable, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3160	119	Liquefied gas, poisonous, flammable, n.o.s. (Inhalation Hazard Zone C)	-	Toxic/poison by inhalation (TIH/PIH)
+3160	119	Liquefied gas, poisonous, flammable, n.o.s. (Inhalation Hazard Zone D)	-	Toxic/poison by inhalation (TIH/PIH)
+3160	119	Liquefied gas, toxic, flammable, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3160	119	Liquefied gas, toxic, flammable, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3160	119	Liquefied gas, toxic, flammable, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3160	119	Liquefied gas, toxic, flammable, n.o.s. (Inhalation Hazard Zone C)	-	Toxic/poison by inhalation (TIH/PIH)
+3160	119	Liquefied gas, toxic, flammable, n.o.s. (Inhalation Hazard Zone D)	-	Toxic/poison by inhalation (TIH/PIH)
+3161	115	Liquefied gas, flammable, n.o.s.	-	
+3162	123	Liquefied gas, poisonous, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3162	123	Liquefied gas, poisonous, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3162	123	Liquefied gas, poisonous, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3162	123	Liquefied gas, poisonous, n.o.s. (Inhalation Hazard Zone C)	-	Toxic/poison by inhalation (TIH/PIH)
+3162	123	Liquefied gas, poisonous, n.o.s. (Inhalation Hazard Zone D)	-	Toxic/poison by inhalation (TIH/PIH)
+3162	123	Liquefied gas, toxic, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3162	123	Liquefied gas, toxic, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3162	123	Liquefied gas, toxic, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3162	123	Liquefied gas, toxic, n.o.s. (Inhalation Hazard Zone C)	-	Toxic/poison by inhalation (TIH/PIH)
+3162	123	Liquefied gas, toxic, n.o.s. (Inhalation Hazard Zone D)	-	Toxic/poison by inhalation (TIH/PIH)
+3163	126	Liquefied gas, n.o.s.	-	
+3164	126	Articles, pressurized, hydraulic (containing non-flammable gas)	-	
+3164	126	Articles, pressurized, pneumatic (containing non-flammable gas)	-	
+3165	131	Aircraft hydraulic power unit fuel tank	-	
+3166	115	Vehicle, flammable gas powered	-	
+3166	128	Vehicle, flammable liquid powered	-	
+3166	115	Vehicle, fuel cell, flammable gas powered	-	
+3166	128	Vehicle, fuel cell, flammable liquid powered	-	
+3167	115	Gas sample, non-pressurized, flammable, n.o.s., not refrigerated liquid	-	
+3168	119	Gas sample, non-pressurized, poisonous, flammable, n.o.s., not refrigerated liquid	-	
+3168	119	Gas sample, non-pressurized, toxic, flammable, n.o.s., not refrigerated liquid	-	
+3169	123	Gas sample, non-pressurized, poisonous, n.o.s., not refrigerated liquid	-	
+3169	123	Gas sample, non-pressurized, toxic, n.o.s., not refrigerated liquid	-	
+3170	138	Aluminum dross	-	
+3170	138	Aluminum remelting by-products	-	
+3170	138	Aluminum smelting by-products	-	
+3171	154	Battery-powered equipment (wet battery)	-	
+3171	147	Battery-powered equipment (with lithium ion batteries)	-	
+3171	138	Battery-powered equipment (with lithium metal batteries)	-	
+3171	138	Battery-powered equipment (with sodium batteries)	-	
+3171	154	Battery-powered vehicle (wet battery)	-	
+3171	147	Battery-powered vehicle (with lithium ion batteries)	-	
+3171	138	Battery-powered vehicle (with sodium batteries)	-	
+3171	154	Wheelchair, electric, with batteries	-	
+3172	152	Toxins, extracted from living sources, liquid, n.o.s.	-	
+3174	135	Titanium disulfide	61544	
+3174	135	Titanium disulphide	61544	
+3175	133	Solids containing flammable liquid, n.o.s.	-	
+3176	133	Flammable solid, organic, molten, n.o.s.	-	
+3178	133	Flammable solid, inorganic, n.o.s.	-	
+3178	133	Smokeless powder for small arms	-	
+3179	134	Flammable solid, poisonous, inorganic, n.o.s.	-	
+3179	134	Flammable solid, toxic, inorganic, n.o.s.	-	
+3180	134	Flammable solid, corrosive, inorganic, n.o.s.	-	
+3181	133	Metal salts of organic compounds, flammable, n.o.s.	-	
+3182	170	Metal hydrides, flammable, n.o.s.	-	
+3183	135	Self-heating liquid, organic, n.o.s.	-	
+3184	136	Self-heating liquid, poisonous, organic, n.o.s.	-	
+3184	136	Self-heating liquid, toxic, organic, n.o.s.	-	
+3185	136	Self-heating liquid, corrosive, organic, n.o.s.	-	
+3186	135	Self-heating liquid, inorganic, n.o.s.	-	
+3187	136	Self-heating liquid, poisonous, inorganic, n.o.s.	-	
+3187	136	Self-heating liquid, toxic, inorganic, n.o.s.	-	
+3188	136	Self-heating liquid, corrosive, inorganic, n.o.s.	-	
+3189	135	Metal powder, self-heating, n.o.s.	-	
+3190	135	Self-heating solid, inorganic, n.o.s.	-	
+3191	136	Self-heating solid, poisonous, inorganic, n.o.s.	-	
+3191	136	Self-heating solid, toxic, inorganic, n.o.s.	-	
+3192	136	Self-heating solid, corrosive, inorganic, n.o.s.	-	
+3194	135	Pyrophoric liquid, inorganic, n.o.s.	-	
+3200	135	Pyrophoric solid, inorganic, n.o.s.	-	
+3205	135	Alkaline earth metal alcoholates, n.o.s.	-	
+3206	136	Alkali metal alcoholates, self-heating, corrosive, n.o.s.	-	
+3208	138	Metallic substance, water-reactive, n.o.s.	-	
+3209	138	Metallic substance, water-reactive, self-heating, n.o.s.	-	
+3210	140	Chlorates, inorganic, aqueous solution, n.o.s.	-	
+3211	140	Perchlorates, inorganic, aqueous solution, n.o.s.	-	
+3212	140	Hypochlorites, inorganic, n.o.s.	-	
+3213	140	Bromates, inorganic, aqueous solution, n.o.s.	-	
+3214	140	Permanganates, inorganic, aqueous solution, n.o.s.	-	
+3215	140	Persulfates, inorganic, n.o.s.	-	
+3215	140	Persulphates, inorganic, n.o.s.	-	
+3216	140	Persulfates, inorganic, aqueous solution, n.o.s.	-	
+3216	140	Persulphates, inorganic, aqueous solution, n.o.s.	-	
+3218	140	Nitrates, inorganic, aqueous solution, n.o.s.	-	
+3219	140	Nitrites, inorganic, aqueous solution, n.o.s.	-	
+3220	126	Pentafluoroethane	9633	
+3220	126	Refrigerant gas R-125	9633	
+3221	149	Self-reactive liquid type B	-	
+3222	149	Self-reactive solid type B	-	
+3223	149	Self-reactive liquid type C	-	
+3224	149	Self-reactive solid type C	-	
+3225	149	Self-reactive liquid type D	-	
+3226	149	Self-reactive solid type D	-	
+3227	149	Self-reactive liquid type E	-	
+3228	149	Self-reactive solid type E	-	
+3229	149	Self-reactive liquid type F	-	
+3230	149	Self-reactive solid type F	-	
+3231	150	Self-reactive liquid type B, temperature controlled	-	
+3232	150	Self-reactive solid type B, temperature controlled	-	
+3233	150	Self-reactive liquid type C, temperature controlled	-	
+3234	150	Self-reactive solid type C, temperature controlled	-	
+3235	150	Self-reactive liquid type D, temperature controlled	-	
+3236	150	Self-reactive solid type D, temperature controlled	-	
+3237	150	Self-reactive liquid type E, temperature controlled	-	
+3238	150	Self-reactive solid type E, temperature controlled	-	
+3239	150	Self-reactive liquid type F, temperature controlled	-	
+3240	150	Self-reactive solid type F, temperature controlled	-	
+3241	133	2-Bromo-2-nitropropane-1,3-diol	2450	
+3242	149	Azodicarbonamide	5462814	
+3243	151	Solids containing poisonous liquid, n.o.s.	-	
+3243	151	Solids containing toxic liquid, n.o.s.	-	
+3244	154	Solids containing corrosive liquid, n.o.s.	-	
+3245	171	Genetically modified micro-organisms	-	
+3245	171	Genetically modified organisms	-	
+3246	156	Methanesulfonyl chloride	31297	Toxic/poison by inhalation (TIH/PIH)
+3246	156	Methanesulphonyl chloride	31297	Toxic/poison by inhalation (TIH/PIH)
+3247	140	Sodium peroxoborate, anhydrous	517072	
+3248	131	Medicine, liquid, flammable, poisonous, n.o.s.	14184	
+3248	131	Medicine, liquid, flammable, toxic, n.o.s.	14184	
+3249	151	Medicine, solid, poisonous, n.o.s.	14184	
+3249	151	Medicine, solid, toxic, n.o.s.	14184	
+3250	153	Chloroacetic acid, molten	300	
+3251	133	Isosorbide-5-mononitrate	27661	
+3252	115	Difluoromethane	6345	
+3252	115	Refrigerant gas R-32	6345	
+3253	154	Disodium trioxosilicate	-	
+3254	135	Tributylphosphane	13831	
+3255	135	tert-Butyl hypochlorite	521297	
+3256	128	Elevated temperature liquid, flammable, n.o.s., with flash point above 37.8Â°C (100Â°F), at or above its flash point	-	
+3256	128	Elevated temperature liquid, flammable, n.o.s., with flash point above 60Â°C (140Â°F), at or above its flash point	-	
+3257	171	Elevated temperature liquid, n.o.s., at or above 100Â°C (212Â°F), and below its flash point	-	
+3258	171	Elevated temperature solid, n.o.s., at or above 240Â°C (464Â°F)	-	
+3259	154	Amines, solid, corrosive, n.o.s.	-	
+3259	154	Polyamines, solid, corrosive, n.o.s.	-	
+3260	154	Corrosive solid, acidic, inorganic, n.o.s.	-	
+3261	154	Corrosive solid, acidic, organic, n.o.s.	-	
+3262	154	Corrosive solid, basic, inorganic, n.o.s.	-	
+3263	154	Corrosive solid, basic, organic, n.o.s.	-	
+3264	154	Corrosive liquid, acidic, inorganic, n.o.s.	-	
+3265	153	Corrosive liquid, acidic, organic, n.o.s.	-	
+3266	154	Corrosive liquid, basic, inorganic, n.o.s.	-	
+3267	153	Corrosive liquid, basic, organic, n.o.s.	-	
+3268	171	Air bag inflators	-	
+3268	171	Air bag modules	-	
+3268	171	Safety devices	-	
+3268	171	Seat-belt pre-tensioners	-	
+3269	128	Polyester resin kit, liquid base material	-	
+3270	133	Nitrocellulose membrane filters	-	
+3271	127	Ethers, n.o.s.	-	
+3272	127	Esters, n.o.s.	-	
+3273	131	Nitriles, flammable, poisonous, n.o.s.	-	
+3273	131	Nitriles, flammable, toxic, n.o.s.	-	
+3274	132	Alcoholates solution, n.o.s., in alcohol	-	
+3275	131	Nitriles, poisonous, flammable, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3275	131	Nitriles, toxic, flammable, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3276	151	Nitriles, liquid, poisonous, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3276	151	Nitriles, liquid, toxic, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3276	151	Nitriles, poisonous, liquid, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3276	151	Nitriles, toxic, liquid, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3277	154	Chloroformates, poisonous, corrosive, n.o.s.	-	
+3277	154	Chloroformates, toxic, corrosive, n.o.s.	-	
+3278	151	Organophosphorus compound, liquid, poisonous, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3278	151	Organophosphorus compound, liquid, toxic, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3279	131	Organophosphorus compound, poisonous, flammable, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3279	131	Organophosphorus compound, toxic, flammable, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3280	151	Organoarsenic compound, liquid, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3281	151	Metal carbonyls, liquid, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3282	151	Organometallic compound, liquid, poisonous, n.o.s.	-	
+3282	151	Organometallic compound, liquid, toxic, n.o.s.	-	
+3283	151	Selenium compound, solid, n.o.s.	-	
+3284	151	Tellurium compound, n.o.s.	-	
+3285	151	Vanadium compound, n.o.s.	-	
+3286	131	Flammable liquid, poisonous, corrosive, n.o.s.	-	
+3286	131	Flammable liquid, toxic, corrosive, n.o.s.	-	
+3287	151	Poisonous liquid, inorganic, n.o.s.	-	
+3287	151	Toxic liquid, inorganic, n.o.s.	-	
+3288	151	Poisonous solid, inorganic, n.o.s.	-	
+3288	151	Toxic solid, inorganic, n.o.s.	-	
+3289	154	Poisonous liquid, corrosive, inorganic, n.o.s.	-	
+3289	154	Toxic liquid, corrosive, inorganic, n.o.s.	-	
+3290	154	Poisonous solid, corrosive, inorganic, n.o.s.	-	
+3290	154	Toxic solid, corrosive, inorganic, n.o.s.	-	
+3291	158	(Bio)Medical waste, n.o.s.	-	
+3291	158	Clinical waste, unspecified, n.o.s.	-	
+3291	158	Medical waste, n.o.s.	-	
+3291	158	Regulated medical waste, n.o.s.	-	
+3292	138	Batteries, containing metallic sodium or sodium alloy	-	
+3292	138	Batteries, containing sodium	-	
+3292	138	Cells, containing metallic sodium or sodium alloy	-	
+3292	138	Cells, containing sodium	-	
+3293	153	Hydrazine, aqueous solution, with not more than 37% hydrazine	9321	
+3294	131	Hydrogen cyanide, solution in alcohol, with not more than 45% hydrogen cyanide	768	Toxic/poison by inhalation (TIH/PIH)
+3295	128	Hydrocarbons, liquid, n.o.s.	-	
+3296	126	Heptafluoropropane	62442	
+3296	126	Refrigerant gas R-227	62442	
+3297	126	Ethylene oxide and chlorotetrafluoroethane mixture, with not more than 8.8% ethylene oxide	-	
+3298	126	Ethylene oxide and pentafluoroethane mixture, with not more than 7.9% ethylene oxide	-	
+3299	126	Ethylene oxide and tetrafluoroethane mixture, with not more than 5.6% ethylene oxide	-	
+3300	119P	Ethylene oxide and carbon dioxide mixture, with more than 87% ethylene oxide	-	Toxic/poison by inhalation (TIH/PIH)
+3301	136	Corrosive liquid, self-heating, n.o.s.	-	
+3302	152P	2-Dimethylaminoethyl acrylate, stabilized	17111	
+3303	124	Compressed gas, poisonous, oxidizing, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3303	124	Compressed gas, poisonous, oxidizing, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3303	124	Compressed gas, poisonous, oxidizing, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3303	124	Compressed gas, poisonous, oxidizing, n.o.s. (Inhalation Hazard Zone C)	-	Toxic/poison by inhalation (TIH/PIH)
+3303	124	Compressed gas, poisonous, oxidizing, n.o.s. (Inhalation Hazard Zone D)	-	Toxic/poison by inhalation (TIH/PIH)
+3303	124	Compressed gas, toxic, oxidizing, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3303	124	Compressed gas, toxic, oxidizing, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3303	124	Compressed gas, toxic, oxidizing, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3303	124	Compressed gas, toxic, oxidizing, n.o.s. (Inhalation Hazard Zone C)	-	Toxic/poison by inhalation (TIH/PIH)
+3303	124	Compressed gas, toxic, oxidizing, n.o.s. (Inhalation Hazard Zone D)	-	Toxic/poison by inhalation (TIH/PIH)
+3304	125	Compressed gas, poisonous, corrosive, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3304	125	Compressed gas, poisonous, corrosive, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3304	125	Compressed gas, poisonous, corrosive, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3304	125	Compressed gas, poisonous, corrosive, n.o.s. (Inhalation Hazard Zone C)	-	Toxic/poison by inhalation (TIH/PIH)
+3304	125	Compressed gas, poisonous, corrosive, n.o.s. (Inhalation Hazard Zone D)	-	Toxic/poison by inhalation (TIH/PIH)
+3304	125	Compressed gas, toxic, corrosive, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3304	125	Compressed gas, toxic, corrosive, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3304	125	Compressed gas, toxic, corrosive, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3304	125	Compressed gas, toxic, corrosive, n.o.s. (Inhalation Hazard Zone C)	-	Toxic/poison by inhalation (TIH/PIH)
+3304	125	Compressed gas, toxic, corrosive, n.o.s. (Inhalation Hazard Zone D)	-	Toxic/poison by inhalation (TIH/PIH)
+3305	119	Compressed gas, poisonous, flammable, corrosive, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3305	119	Compressed gas, poisonous, flammable, corrosive, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3305	119	Compressed gas, poisonous, flammable, corrosive, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3305	119	Compressed gas, poisonous, flammable, corrosive, n.o.s. (Inhalation Hazard Zone C)	-	Toxic/poison by inhalation (TIH/PIH)
+3305	119	Compressed gas, poisonous, flammable, corrosive, n.o.s. (Inhalation Hazard Zone D)	-	Toxic/poison by inhalation (TIH/PIH)
+3305	119	Compressed gas, toxic, flammable, corrosive, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3305	119	Compressed gas, toxic, flammable, corrosive, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3305	119	Compressed gas, toxic, flammable, corrosive, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3305	119	Compressed gas, toxic, flammable, corrosive, n.o.s. (Inhalation Hazard Zone C)	-	Toxic/poison by inhalation (TIH/PIH)
+3305	119	Compressed gas, toxic, flammable, corrosive, n.o.s. (Inhalation Hazard Zone D)	-	Toxic/poison by inhalation (TIH/PIH)
+3306	124	Compressed gas, poisonous, oxidizing, corrosive, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3306	124	Compressed gas, poisonous, oxidizing, corrosive, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3306	124	Compressed gas, poisonous, oxidizing, corrosive, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3306	124	Compressed gas, poisonous, oxidizing, corrosive, n.o.s. (Inhalation Hazard Zone C)	-	Toxic/poison by inhalation (TIH/PIH)
+3306	124	Compressed gas, poisonous, oxidizing, corrosive, n.o.s. (Inhalation Hazard Zone D)	-	Toxic/poison by inhalation (TIH/PIH)
+3306	124	Compressed gas, toxic, oxidizing, corrosive, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3306	124	Compressed gas, toxic, oxidizing, corrosive, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3306	124	Compressed gas, toxic, oxidizing, corrosive, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3306	124	Compressed gas, toxic, oxidizing, corrosive, n.o.s. (Inhalation Hazard Zone C)	-	Toxic/poison by inhalation (TIH/PIH)
+3306	124	Compressed gas, toxic, oxidizing, corrosive, n.o.s. (Inhalation Hazard Zone D)	-	Toxic/poison by inhalation (TIH/PIH)
+3307	124	Liquefied gas, poisonous, oxidizing, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3307	124	Liquefied gas, poisonous, oxidizing, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3307	124	Liquefied gas, poisonous, oxidizing, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3307	124	Liquefied gas, poisonous, oxidizing, n.o.s. (Inhalation Hazard Zone C)	-	Toxic/poison by inhalation (TIH/PIH)
+3307	124	Liquefied gas, poisonous, oxidizing, n.o.s. (Inhalation Hazard Zone D)	-	Toxic/poison by inhalation (TIH/PIH)
+3307	124	Liquefied gas, toxic, oxidizing, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3307	124	Liquefied gas, toxic, oxidizing, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3307	124	Liquefied gas, toxic, oxidizing, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3307	124	Liquefied gas, toxic, oxidizing, n.o.s. (Inhalation Hazard Zone C)	-	Toxic/poison by inhalation (TIH/PIH)
+3307	124	Liquefied gas, toxic, oxidizing, n.o.s. (Inhalation Hazard Zone D)	-	Toxic/poison by inhalation (TIH/PIH)
+3308	125	Liquefied gas, poisonous, corrosive, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3308	125	Liquefied gas, poisonous, corrosive, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3308	125	Liquefied gas, poisonous, corrosive, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3308	125	Liquefied gas, poisonous, corrosive, n.o.s. (Inhalation Hazard Zone C)	-	Toxic/poison by inhalation (TIH/PIH)
+3308	125	Liquefied gas, poisonous, corrosive, n.o.s. (Inhalation Hazard Zone D)	-	Toxic/poison by inhalation (TIH/PIH)
+3308	125	Liquefied gas, toxic, corrosive, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3308	125	Liquefied gas, toxic, corrosive, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3308	125	Liquefied gas, toxic, corrosive, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3308	125	Liquefied gas, toxic, corrosive, n.o.s. (Inhalation Hazard Zone C)	-	Toxic/poison by inhalation (TIH/PIH)
+3308	125	Liquefied gas, toxic, corrosive, n.o.s. (Inhalation Hazard Zone D)	-	Toxic/poison by inhalation (TIH/PIH)
+3309	119	Liquefied gas, poisonous, flammable, corrosive, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3309	119	Liquefied gas, poisonous, flammable, corrosive, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3309	119	Liquefied gas, poisonous, flammable, corrosive, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3309	119	Liquefied gas, poisonous, flammable, corrosive, n.o.s. (Inhalation Hazard Zone C)	-	Toxic/poison by inhalation (TIH/PIH)
+3309	119	Liquefied gas, poisonous, flammable, corrosive, n.o.s. (Inhalation Hazard Zone D)	-	Toxic/poison by inhalation (TIH/PIH)
+3309	119	Liquefied gas, toxic, flammable, corrosive, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3309	119	Liquefied gas, toxic, flammable, corrosive, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3309	119	Liquefied gas, toxic, flammable, corrosive, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3309	119	Liquefied gas, toxic, flammable, corrosive, n.o.s. (Inhalation Hazard Zone C)	-	Toxic/poison by inhalation (TIH/PIH)
+3309	119	Liquefied gas, toxic, flammable, corrosive, n.o.s. (Inhalation Hazard Zone D)	-	Toxic/poison by inhalation (TIH/PIH)
+3310	124	Liquefied gas, poisonous, oxidizing, corrosive, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3310	124	Liquefied gas, poisonous, oxidizing, corrosive, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3310	124	Liquefied gas, poisonous, oxidizing, corrosive, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3310	124	Liquefied gas, poisonous, oxidizing, corrosive, n.o.s. (Inhalation Hazard Zone C)	-	Toxic/poison by inhalation (TIH/PIH)
+3310	124	Liquefied gas, poisonous, oxidizing, corrosive, n.o.s. (Inhalation Hazard Zone D)	-	Toxic/poison by inhalation (TIH/PIH)
+3310	124	Liquefied gas, toxic, oxidizing, corrosive, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3310	124	Liquefied gas, toxic, oxidizing, corrosive, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3310	124	Liquefied gas, toxic, oxidizing, corrosive, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3310	124	Liquefied gas, toxic, oxidizing, corrosive, n.o.s. (Inhalation Hazard Zone C)	-	Toxic/poison by inhalation (TIH/PIH)
+3310	124	Liquefied gas, toxic, oxidizing, corrosive, n.o.s. (Inhalation Hazard Zone D)	-	Toxic/poison by inhalation (TIH/PIH)
+3311	122	Gas, refrigerated liquid, oxidizing, n.o.s.	-	
+3312	115	Gas, refrigerated liquid, flammable, n.o.s.	4447	
+3313	135	Organic pigments, self-heating	-	
+3314	171	Plastic molding compound	-	
+3314	171	Plastics moulding compound	-	
+3315	151	Chemical sample, poisonous	-	
+3315	151	Chemical sample, toxic	-	
+3316	171	Chemical kit	-	
+3316	171	First aid kit	3776	
+3317	113	2-Amino-4,6-dinitrophenol, wetted with not less than 20% water	4921319	
+3318	125	Ammonia solution, with more than 50% ammonia	-	Toxic/poison by inhalation (TIH/PIH)
+3319	113	Nitroglycerin mixture, desensitized, solid, n.o.s., with more than 2% but not more than 10% nitroglycerin	-	
+3320	157	Sodium borohydride and sodium hydroxide solution, with not more than 12% sodium borohydride and not more than 40% sodium hydroxide	-	
+3321	162	Radioactive material, low specific activity (LSA-II), non fissile or fissile-excepted	-	
+3322	162	Radioactive material, low specific activity (LSA-III), non fissile or fissile-excepted	-	
+3323	163	Radioactive material, Type C package, non fissile or fissile excepted	-	
+3324	165	Radioactive material, low specific activity (LSA-II), fissile	-	
+3325	165	Radioactive material, low specific activity (LSA-III), fissile	-	
+3326	165	Radioactive material, surface contaminated objects (SCO-I or SCO-II), fissile	-	
+3327	165	Radioactive material, Type A package, fissile, non-special form	-	
+3328	165	Radioactive material, Type B(U) package, fissile	-	
+3329	165	Radioactive material, Type B(M) package, fissile	-	
+3330	165	Radioactive material, Type C package, fissile	-	
+3331	165	Radioactive material, transported under special arrangement, fissile	-	
+3332	164	Radioactive material, Type A package, special form, non fissile or fissile-excepted	-	
+3333	165	Radioactive material, Type A package, special form, fissile	-	
+3334	171	Aviation regulated liquid, n.o.s.	-	
+3334	171	Self-defense spray, non-pressurized	-	
+3335	171	Aviation regulated solid, n.o.s.	-	
+3336	130	Mercaptan mixture, liquid, flammable, n.o.s.	-	
+3336	130	Mercaptans, liquid, flammable, n.o.s.	402	
+3337	126	Refrigerant gas R-404A	-	
+3338	126	Refrigerant gas R-407A	-	
+3339	126	Refrigerant gas R-407B	-	
+3340	126	Refrigerant gas R-407C	-	
+3341	135	Thiourea dioxide	61274	
+3342	135	Xanthates	-	
+3343	113	Nitroglycerin mixture, desensitized, liquid, flammable, n.o.s., with not more than 30% nitroglycerin	-	
+3344	113	Pentaerythrite tetranitrate mixture, desensitized, solid, n.o.s., with more than 10% but not more than 20% PETN	-	
+3344	113	Pentaerythritol tetranitrate mixture, desensitized, solid, n.o.s., with more than 10% but not more than 20% PETN	-	
+3344	113	PETN mixture, desensitized, solid, n.o.s., with more than 10% but not more than 20% PETN	-	
+3345	153	Phenoxyacetic acid derivative pesticide, solid, poisonous	-	
+3345	153	Phenoxyacetic acid derivative pesticide, solid, toxic	-	
+3346	131	Phenoxyacetic acid derivative pesticide, liquid, flammable, poisonous	-	
+3346	131	Phenoxyacetic acid derivative pesticide, liquid, flammable, toxic	-	
+3347	131	Phenoxyacetic acid derivative pesticide, liquid, poisonous, flammable	-	
+3347	131	Phenoxyacetic acid derivative pesticide, liquid, toxic, flammable	-	
+3348	153	Phenoxyacetic acid derivative pesticide, liquid, poisonous	-	
+3348	153	Phenoxyacetic acid derivative pesticide, liquid, toxic	-	
+3349	151	Pyrethroid pesticide, solid, poisonous	-	
+3349	151	Pyrethroid pesticide, solid, toxic	-	
+3350	131	Pyrethroid pesticide, liquid, flammable, poisonous	-	
+3350	131	Pyrethroid pesticide, liquid, flammable, toxic	-	
+3351	131	Pyrethroid pesticide, liquid, poisonous, flammable	-	
+3351	131	Pyrethroid pesticide, liquid, toxic, flammable	-	
+3352	151	Pyrethroid pesticide, liquid, poisonous	-	
+3352	151	Pyrethroid pesticide, liquid, toxic	-	
+3354	115	Insecticide gas, flammable, n.o.s.	-	
+3355	119	Insecticide gas, poisonous, flammable, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3355	119	Insecticide gas, poisonous, flammable, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3355	119	Insecticide gas, poisonous, flammable, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3355	119	Insecticide gas, poisonous, flammable, n.o.s. (Inhalation Hazard Zone C)	-	Toxic/poison by inhalation (TIH/PIH)
+3355	119	Insecticide gas, poisonous, flammable, n.o.s. (Inhalation Hazard Zone D)	-	Toxic/poison by inhalation (TIH/PIH)
+3355	119	Insecticide gas, toxic, flammable, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3355	119	Insecticide gas, toxic, flammable, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3355	119	Insecticide gas, toxic, flammable, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3355	119	Insecticide gas, toxic, flammable, n.o.s. (Inhalation Hazard Zone C)	-	Toxic/poison by inhalation (TIH/PIH)
+3355	119	Insecticide gas, toxic, flammable, n.o.s. (Inhalation Hazard Zone D)	-	Toxic/poison by inhalation (TIH/PIH)
+3356	140	Oxygen generator, chemical	-	
+3356	140	Oxygen generator, chemical, spent	-	
+3357	113	Nitroglycerin mixture, desensitized, liquid, n.o.s., with not more than 30% nitroglycerin	-	
+3358	115	Refrigerating machines, containing flammable, non-poisonous, liquefied gas	-	
+3358	115	Refrigerating machines, containing flammable, non-toxic, liquefied gas	-	
+3359	171	Fumigated cargo transport unit	-	
+3360	133	Fibers, vegetable, dry	-	
+3360	133	Fibres, vegetable, dry	-	
+3361	156	Chlorosilanes, poisonous, corrosive, n.o.s.	-	Water-reactive material (WR)
+3361	156	Chlorosilanes, toxic, corrosive, n.o.s.	-	Water-reactive material (WR)
+3362	155	Chlorosilanes, poisonous, corrosive, flammable, n.o.s.	-	Water-reactive material (WR)
+3362	155	Chlorosilanes, toxic, corrosive, flammable, n.o.s.	-	Water-reactive material (WR)
+3363	171	Dangerous goods in apparatus	-	
+3363	171	Dangerous goods in articles	-	
+3363	171	Dangerous goods in machinery	-	
+3364	113	Picric acid, wetted with not less than 10% water	6954	
+3364	113	Trinitrophenol, wetted with not less than 10% water	6954	
+3365	113	Picryl chloride, wetted with not less than 10% water	6953	
+3365	113	Trinitrochlorobenzene, wetted with not less than 10% water	-	
+3366	113	TNT, wetted with not less than 10% water	8376	
+3366	113	Trinitrotoluene, wetted with not less than 10% water	8376	
+3367	113	Trinitrobenzene, wetted with not less than 10% water	7434	
+3368	113	Trinitrobenzoic acid, wetted with not less than 10% water	8518	
+3369	113	Sodium dinitro-o-cresolate, wetted with not less than 10% water	33129	
+3370	113	Urea nitrate, wetted with not less than 10% water	31295	
+3371	129	2-Methylbutanal	7284	
+3373	158	Biological substance, category B	-	
+3374	116	Acetylene, solvent free	-	
+3375	140	Ammonium nitrate emulsion	-	
+3375	140	Ammonium nitrate gel	-	
+3375	140	Ammonium nitrate suspension	-	
+3376	113	4-Nitrophenylhydrazine, with not less than 30% water	3310889	
+3377	140	Sodium perborate monohydrate	23695970	
+3378	140	Sodium carbonate peroxyhydrate	159762	
+3379	113	Desensitized explosive, liquid, n.o.s.	-	
+3380	113	Desensitized explosive, solid, n.o.s.	-	
+3381	151	Poisonous by inhalation liquid, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3381	151	Toxic by inhalation liquid, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3382	151	Poisonous by inhalation liquid, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3382	151	Toxic by inhalation liquid, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3383	131	Poisonous by inhalation liquid, flammable, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3383	131	Toxic by inhalation liquid, flammable, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3384	131	Poisonous by inhalation liquid, flammable, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3384	131	Toxic by inhalation liquid, flammable, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3385	139	Poisonous by inhalation liquid, water-reactive, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3385	139	Toxic by inhalation liquid, water-reactive, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3386	139	Poisonous by inhalation liquid, water-reactive, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3386	139	Toxic by inhalation liquid, water-reactive, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3387	142	Poisonous by inhalation liquid, oxidizing, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3387	142	Toxic by inhalation liquid, oxidizing, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3388	142	Poisonous by inhalation liquid, oxidizing, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3388	142	Toxic by inhalation liquid, oxidizing, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3389	154	Poisonous by inhalation liquid, corrosive, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3389	154	Toxic by inhalation liquid, corrosive, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3390	154	Poisonous by inhalation liquid, corrosive, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3390	154	Toxic by inhalation liquid, corrosive, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3391	135	Organometallic substance, solid, pyrophoric	-	
+3392	135	Organometallic substance, liquid, pyrophoric	-	
+3393	135	Organometallic substance, solid, pyrophoric, water-reactive	-	
+3394	135	Organometallic substance, liquid, pyrophoric, water-reactive	-	
+3395	135	Organometallic substance, solid, water-reactive	-	
+3396	138	Organometallic substance, solid, water-reactive, flammable	-	
+3397	138	Organometallic substance, solid, water-reactive, self-heating	-	
+3398	135	Organometallic substance, liquid, water-reactive	-	
+3399	138	Organometallic substance, liquid, water-reactive, flammable	-	
+3400	138	Organometallic substance, solid, self-heating	-	
+3401	138	Alkali metal amalgam, solid	-	
+3402	138	Alkaline earth metal amalgam, solid	-	
+3403	138	Potassium metal alloys, solid	-	
+3404	138	Potassium sodium alloys, solid	-	
+3405	141	Barium chlorate, solution	26059	
+3406	141	Barium perchlorate, solution	61623	
+3407	140	Chlorate and magnesium chloride mixture, solution	-	
+3408	141	Lead perchlorate, solution	61655	
+3409	152	Chloronitrobenzenes, liquid	-	
+3410	153	4-Chloro-o-toluidine hydrochloride, solution	18487	
+3411	153	beta-Naphthylamine, solution	7057	
+3411	153	Naphthylamine (beta), solution	-	
+3412	153	Formic acid, with not less than 5% but less than 10% acid	284	
+3412	153	Formic acid, with not less than 10% but not more than 85% acid	284	
+3413	157	Potassium cyanide, solution	9032	
+3414	157	Sodium cyanide, solution	8929	
+3415	154	Sodium fluoride, solution	5235	
+3416	153	Chloroacetophenone, liquid	10757	
+3417	152	Xylyl bromide, solid	11121	
+3418	151	2,4-Toluenediamine, solution	7261	
+3418	151	2,4-Toluylenediamine, solution	7261	
+3419	157	Boron trifluoride acetic acid complex, solid	-	
+3420	157	Boron trifluoride propionic acid complex, solid	-	
+3421	154	Potassium hydrogen difluoride, solution	11829350	
+3422	154	Potassium fluoride, solution	522689	
+3423	153	Tetramethylammonium hydroxide, solid	60966	
+3424	141	Ammonium dinitro-o-cresolate, solution	18117	
+3425	156	Bromoacetic acid, solid	6227	
+3426	153P	Acrylamide, solution	6579	
+3427	153	Chlorobenzyl chlorides, solid	-	
+3428	156	3-Chloro-4-methylphenyl isocyanate, solid	62832	
+3429	153	Chlorotoluidines, liquid	-	
+3430	153	Xylenols, liquid	-	
+3431	152	Nitrobenzotrifluorides, solid	-	
+3432	171	PCB, solid	-	
+3432	171	Polychlorinated biphenyls, solid	-	
+3434	153	Nitrocresols, liquid	-	
+3436	151	Hexafluoroacetone hydrate, solid	69617	
+3437	152	Chlorocresols, solid	-	
+3438	153	alpha-Methylbenzyl alcohol, solid	7409	
+3438	153	Methylbenzyl (alpha) alcohol, solid	7409	
+3439	151	Nitriles, solid, poisonous, n.o.s.	-	
+3439	151	Nitriles, solid, toxic, n.o.s.	-	
+3440	151	Selenium compound, liquid, n.o.s.	-	
+3441	153	Chlorodinitrobenzenes, solid	33096	
+3442	153	Dichloroanilines, solid	11844	
+3443	152	Dinitrobenzenes, solid	156614059	
+3444	151	Nicotine hydrochloride, solid	5284430	
+3445	151	Nicotine sulfate, solid	2735101	
+3445	151	Nicotine sulphate, solid	2735101	
+3446	152	Nitrotoluenes, solid	-	
+3447	152	Nitroxylenes, solid	-	
+3448	159	Tear gas substance, solid, n.o.s.	-	
+3449	159	Bromobenzyl cyanides, solid	22044	
+3450	151	Diphenylchloroarsine, solid	12836	
+3451	153	Toluidines, solid	-	
+3452	153	Xylidines, solid	56846457	
+3453	154	Phosphoric acid, solid	1004	
+3454	152	Dinitrotoluenes, solid	-	
+3455	153	Cresols, solid	-	
+3456	157	Nitrosylsulfuric acid, solid	82157	Water-reactive material (WR)
+3456	157	Nitrosylsulphuric acid, solid	82157	Water-reactive material (WR)
+3457	152	Chloronitrotoluenes, solid	-	
+3458	152	Nitroanisoles, solid	-	
+3459	152	Nitrobromobenzenes, solid	-	
+3460	153	N-Ethylbenzyltoluidines, solid	-	
+3462	152	Toxins, extracted from living sources, solid, n.o.s.	-	
+3463	153	Propionic acid, with not less than 90% acid	1032	
+3464	151	Organophosphorus compound, solid, poisonous, n.o.s.	-	
+3464	151	Organophosphorus compound, solid, toxic, n.o.s.	-	
+3465	151	Organoarsenic compound, solid, n.o.s.	-	
+3466	151	Metal carbonyls, solid, n.o.s.	-	
+3467	151	Organometallic compound, solid, poisonous, n.o.s.	-	
+3467	151	Organometallic compound, solid, toxic, n.o.s.	-	
+3468	115	Hydrogen in a metal hydride storage system	-	
+3468	115	Hydrogen in a metal hydride storage system contained in equipment	-	
+3468	115	Hydrogen in a metal hydride storage system packed with equipment	-	
+3469	132	Paint, flammable, corrosive	-	
+3469	132	Paint related material, flammable, corrosive	-	
+3470	132	Paint, corrosive, flammable	-	
+3470	132	Paint related material, corrosive, flammable	-	
+3471	154	Hydrogendifluorides, solution, n.o.s.	-	
+3472	153	Crotonic acid, liquid	637090	
+3473	128	Fuel cell cartridges, containing flammable liquids	-	
+3473	128	Fuel cell cartridges contained in equipment, containing flammable liquids	-	
+3473	128	Fuel cell cartridges packed with equipment, containing flammable liquids	-	
+3474	113	1-Hydroxybenzotriazole, monohydrate	-	
+3475	127	Ethanol and gasoline mixture, with more than 10% ethanol	-	
+3475	127	Ethanol and motor spirit mixture, with more than 10% ethanol	-	
+3475	127	Ethanol and petrol mixture, with more than 10% ethanol	-	
+3476	138	Fuel cell cartridges, containing water-reactive substances	-	
+3476	138	Fuel cell cartridges contained in equipment, containing water-reactive substances	-	
+3476	138	Fuel cell cartridges packed with equipment, containing water-reactive substances	-	
+3477	153	Fuel cell cartridges, containing corrosive substances	-	
+3477	153	Fuel cell cartridges contained in equipment, containing corrosive substances	-	
+3477	153	Fuel cell cartridges packed with equipment, containing corrosive substances	-	
+3478	115	Fuel cell cartridges, containing liquefied flammable gas	-	
+3478	115	Fuel cell cartridges contained in equipment, containing liquefied flammable gas	-	
+3478	115	Fuel cell cartridges packed with equipment, containing liquefied flammable gas	-	
+3479	115	Fuel cell cartridges, containing hydrogen in metal hydride	-	
+3479	115	Fuel cell cartridges contained in equipment, containing hydrogen in metal hydride	-	
+3479	115	Fuel cell cartridges packed with equipment, containing hydrogen in metal hydride	-	
+3480	147	Lithium ion batteries (including lithium ion polymer batteries)	-	
+3481	147	Lithium ion batteries contained in equipment (including lithium ion polymer batteries)	-	
+3481	147	Lithium ion batteries packed with equipment (including lithium ion polymer batteries)	-	
+3482	138	Alkali metal dispersion, flammable	-	
+3482	138	Alkaline earth metal dispersion, flammable	-	
+3483	131	Motor fuel anti-knock mixture, flammable	-	
+3484	132	Hydrazine aqueous solution, flammable, with more than 37% hydrazine	-	
+3485	140	Calcium hypochlorite, dry, corrosive, with more than 39% available chlorine (8.8% available oxygen)	-	
+3485	140	Calcium hypochlorite mixture, dry, corrosive, with more than 39% available chlorine (8.8% available oxygen)	-	
+3486	140	Calcium hypochlorite mixture, dry, corrosive, with more than 10% but not more than 39% available chlorine	-	
+3487	140	Calcium hypochlorite, hydrated, corrosive, with not less than 5.5% but not more than 16% water	-	
+3487	140	Calcium hypochlorite, hydrated mixture, corrosive, with not less than 5.5% but not more than 16% water	-	
+3488	131	Poisonous by inhalation liquid, flammable, corrosive, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3488	131	Toxic by inhalation liquid, flammable, corrosive, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3489	131	Poisonous by inhalation liquid, flammable, corrosive, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3489	131	Toxic by inhalation liquid, flammable, corrosive, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3490	155	Poisonous by inhalation liquid, water-reactive, flammable, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3490	155	Toxic by inhalation liquid, water-reactive, flammable, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3491	155	Poisonous by inhalation liquid, water-reactive, flammable, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3491	155	Toxic by inhalation liquid, water-reactive, flammable, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3492	131	Poisonous by inhalation liquid, corrosive, flammable, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3492	131	Toxic by inhalation liquid, corrosive, flammable, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3493	131	Poisonous by inhalation liquid, corrosive, flammable, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3493	131	Toxic by inhalation liquid, corrosive, flammable, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3494	131	Petroleum sour crude oil, flammable, poisonous	-	Toxic/poison by inhalation (TIH/PIH)
+3494	131	Petroleum sour crude oil, flammable, toxic	-	Toxic/poison by inhalation (TIH/PIH)
+3495	154	Iodine	807	
+3496	171	Batteries, nickel-metal hydride	-	
+3497	133	Krill meal	-	
+3498	157	Iodine monochloride, liquid	24640	
+3499	171	Capacitor, electric double layer	-	
+3500	126	Chemical under pressure, n.o.s.	-	
+3501	115	Chemical under pressure, flammable, n.o.s.	-	
+3502	123	Chemical under pressure, poisonous, n.o.s.	-	
+3502	123	Chemical under pressure, toxic, n.o.s.	-	
+3503	125	Chemical under pressure, corrosive, n.o.s.	-	
+3504	119	Chemical under pressure, flammable, poisonous, n.o.s.	-	
+3504	119	Chemical under pressure, flammable, toxic, n.o.s.	-	
+3505	118	Chemical under pressure, flammable, corrosive, n.o.s.	-	
+3506	172	Mercury contained in manufactured articles	-	
+3507	166	Uranium hexafluoride, radioactive material, excepted package, less than 0.1 kg per package, non-fissile or fissile-excepted	-	Water-reactive material (WR)
+3508	171	Capacitor, asymmetric	-	
+3509	171	Packagings discarded, empty, uncleaned	-	
+3510	174	Adsorbed gas, flammable, n.o.s.	-	
+3511	174	Adsorbed gas, n.o.s.	-	
+3512	173	Adsorbed gas, poisonous, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3512	173	Adsorbed gas, poisonous, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3512	173	Adsorbed gas, poisonous, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3512	173	Adsorbed gas, poisonous, n.o.s. (Inhalation Hazard Zone C)	-	Toxic/poison by inhalation (TIH/PIH)
+3512	173	Adsorbed gas, poisonous, n.o.s. (Inhalation Hazard Zone D)	-	Toxic/poison by inhalation (TIH/PIH)
+3512	173	Adsorbed gas, toxic, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3512	173	Adsorbed gas, toxic, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3512	173	Adsorbed gas, toxic, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3512	173	Adsorbed gas, toxic, n.o.s. (Inhalation Hazard Zone C)	-	Toxic/poison by inhalation (TIH/PIH)
+3512	173	Adsorbed gas, toxic, n.o.s. (Inhalation Hazard Zone D)	-	Toxic/poison by inhalation (TIH/PIH)
+3513	174	Adsorbed gas, oxidizing, n.o.s.	-	
+3514	173	Adsorbed gas, poisonous, flammable, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3514	173	Adsorbed gas, poisonous, flammable, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3514	173	Adsorbed gas, poisonous, flammable, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3514	173	Adsorbed gas, poisonous, flammable, n.o.s. (Inhalation Hazard Zone C)	-	Toxic/poison by inhalation (TIH/PIH)
+3514	173	Adsorbed gas, poisonous, flammable, n.o.s. (Inhalation Hazard Zone D)	-	Toxic/poison by inhalation (TIH/PIH)
+3514	173	Adsorbed gas, toxic, flammable, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3514	173	Adsorbed gas, toxic, flammable, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3514	173	Adsorbed gas, toxic, flammable, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3514	173	Adsorbed gas, toxic, flammable, n.o.s. (Inhalation Hazard Zone C)	-	Toxic/poison by inhalation (TIH/PIH)
+3514	173	Adsorbed gas, toxic, flammable, n.o.s. (Inhalation Hazard Zone D)	-	Toxic/poison by inhalation (TIH/PIH)
+3515	173	Adsorbed gas, poisonous, oxidizing, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3515	173	Adsorbed gas, poisonous, oxidizing, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3515	173	Adsorbed gas, poisonous, oxidizing, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3515	173	Adsorbed gas, poisonous, oxidizing, n.o.s. (Inhalation Hazard Zone C)	-	Toxic/poison by inhalation (TIH/PIH)
+3515	173	Adsorbed gas, poisonous, oxidizing, n.o.s. (Inhalation Hazard Zone D)	-	Toxic/poison by inhalation (TIH/PIH)
+3515	173	Adsorbed gas, toxic, oxidizing, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3515	173	Adsorbed gas, toxic, oxidizing, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3515	173	Adsorbed gas, toxic, oxidizing, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3515	173	Adsorbed gas, toxic, oxidizing, n.o.s. (Inhalation Hazard Zone C)	-	Toxic/poison by inhalation (TIH/PIH)
+3515	173	Adsorbed gas, toxic, oxidizing, n.o.s. (Inhalation Hazard Zone D)	-	Toxic/poison by inhalation (TIH/PIH)
+3516	173	Adsorbed gas, poisonous, corrosive, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3516	173	Adsorbed gas, poisonous, corrosive, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3516	173	Adsorbed gas, poisonous, corrosive, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3516	173	Adsorbed gas, poisonous, corrosive, n.o.s. (Inhalation Hazard Zone C)	-	Toxic/poison by inhalation (TIH/PIH)
+3516	173	Adsorbed gas, poisonous, corrosive, n.o.s. (Inhalation Hazard Zone D)	-	Toxic/poison by inhalation (TIH/PIH)
+3516	173	Adsorbed gas, toxic, corrosive, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3516	173	Adsorbed gas, toxic, corrosive, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3516	173	Adsorbed gas, toxic, corrosive, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3516	173	Adsorbed gas, toxic, corrosive, n.o.s. (Inhalation Hazard Zone C)	-	Toxic/poison by inhalation (TIH/PIH)
+3516	173	Adsorbed gas, toxic, corrosive, n.o.s. (Inhalation Hazard Zone D)	-	Toxic/poison by inhalation (TIH/PIH)
+3517	173	Adsorbed gas, poisonous, flammable, corrosive, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3517	173	Adsorbed gas, poisonous, flammable, corrosive, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3517	173	Adsorbed gas, poisonous, flammable, corrosive, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3517	173	Adsorbed gas, poisonous, flammable, corrosive, n.o.s. (Inhalation Hazard Zone C)	-	Toxic/poison by inhalation (TIH/PIH)
+3517	173	Adsorbed gas, poisonous, flammable, corrosive, n.o.s. (Inhalation Hazard Zone D)	-	Toxic/poison by inhalation (TIH/PIH)
+3517	173	Adsorbed gas, toxic, flammable, corrosive, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3517	173	Adsorbed gas, toxic, flammable, corrosive, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3517	173	Adsorbed gas, toxic, flammable, corrosive, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3517	173	Adsorbed gas, toxic, flammable, corrosive, n.o.s. (Inhalation Hazard Zone C)	-	Toxic/poison by inhalation (TIH/PIH)
+3517	173	Adsorbed gas, toxic, flammable, corrosive, n.o.s. (Inhalation Hazard Zone D)	-	Toxic/poison by inhalation (TIH/PIH)
+3518	173	Adsorbed gas, poisonous, oxidizing, corrosive, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3518	173	Adsorbed gas, poisonous, oxidizing, corrosive, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3518	173	Adsorbed gas, poisonous, oxidizing, corrosive, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3518	173	Adsorbed gas, poisonous, oxidizing, corrosive, n.o.s. (Inhalation Hazard Zone C)	-	Toxic/poison by inhalation (TIH/PIH)
+3518	173	Adsorbed gas, poisonous, oxidizing, corrosive, n.o.s. (Inhalation Hazard Zone D)	-	Toxic/poison by inhalation (TIH/PIH)
+3518	173	Adsorbed gas, toxic, oxidizing, corrosive, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3518	173	Adsorbed gas, toxic, oxidizing, corrosive, n.o.s. (Inhalation Hazard Zone A)	-	Toxic/poison by inhalation (TIH/PIH)
+3518	173	Adsorbed gas, toxic, oxidizing, corrosive, n.o.s. (Inhalation Hazard Zone B)	-	Toxic/poison by inhalation (TIH/PIH)
+3518	173	Adsorbed gas, toxic, oxidizing, corrosive, n.o.s. (Inhalation Hazard Zone C)	-	Toxic/poison by inhalation (TIH/PIH)
+3518	173	Adsorbed gas, toxic, oxidizing, corrosive, n.o.s. (Inhalation Hazard Zone D)	-	Toxic/poison by inhalation (TIH/PIH)
+3519	173	Boron trifluoride, adsorbed	-	Toxic/poison by inhalation (TIH/PIH)
+3520	173	Chlorine, adsorbed	-	Toxic/poison by inhalation (TIH/PIH)
+3521	173	Silicon tetrafluoride, adsorbed	-	Toxic/poison by inhalation (TIH/PIH)
+3522	173	Arsine, adsorbed	-	Toxic/poison by inhalation (TIH/PIH)
+3523	173	Germane, adsorbed	-	Toxic/poison by inhalation (TIH/PIH)
+3524	173	Phosphorus pentafluoride, adsorbed	-	Toxic/poison by inhalation (TIH/PIH)
+3525	173	Phosphine, adsorbed	-	Toxic/poison by inhalation (TIH/PIH)
+3526	173	Hydrogen selenide, adsorbed	-	Toxic/poison by inhalation (TIH/PIH)
+3527	128P	Polyester resin kit, solid base material	-	
+3528	128	Engine, fuel cell, flammable liquid powered	-	
+3528	128	Engine, internal combustion, flammable liquid powered	-	
+3528	128	Machinery, fuel cell, flammable liquid powered	-	
+3528	128	Machinery, internal combustion, flammable liquid powered	-	
+3529	115	Engine, fuel cell, flammable gas powered	-	
+3529	115	Engine, internal combustion, flammable gas powered	-	
+3529	115	Machinery, fuel cell, flammable gas powered	-	
+3529	115	Machinery, internal combustion, flammable gas powered	-	
+3530	171	Engine, internal combustion	-	
+3530	171	Machinery, internal combustion	-	
+3531	149P	Polymerizing substance, solid, stabilized, n.o.s.	-	
+3532	149P	Polymerizing substance, liquid, stabilized, n.o.s.	-	
+3533	150P	Polymerizing substance, solid, temperature controlled, n.o.s.	-	
+3534	150P	Polymerizing substance, liquid, temperature controlled, n.o.s.	-	
+3535	134	Toxic solid, flammable, inorganic, n.o.s.	-	
+3536	147	Lithium batteries installed in cargo transport unit (lithium ion batteries)	-	
+3536	138	Lithium batteries installed in cargo transport unit (lithium metal batteries)	-	
+3537	115	Articles containing flammable gas, n.o.s.	-	
+3538	120	Articles containing non-flammable, non-toxic gas, n.o.s.	-	
+3539	123	Articles containing toxic gas, n.o.s.	-	Toxic/poison by inhalation (TIH/PIH)
+3540	127	Articles containing flammable liquid, n.o.s.	-	
+3541	133	Articles containing flammable solid, n.o.s.	-	
+3542	135	Articles containing a substance liable to spontaneous combustion, n.o.s.	-	
+3543	138	Articles containing a substance which in contact with water emits flammable gases, n.o.s.	-	
+3544	140	Articles containing oxidizing substance, n.o.s.	-	
+3545	145	Articles containing organic peroxide, n.o.s.	-	
+3546	151	Articles containing toxic substance, n.o.s.	-	
+3547	154	Articles containing corrosive substance, n.o.s.	-	
+3548	171	Articles containing miscellaneous dangerous goods, n.o.s.	-	
+3549	158	Medical waste, category A, affecting animals only, solid	-	
+3549	158	Medical waste, category A, affecting humans, solid	-	
+3550	151	Cobalt dihydroxide powder	-	
+3551	147	Sodium ion batteries	-	
+3552	147	Sodium ion batteries contained in equipment	-	
+3552	147	Sodium ion batteries packed with equipment	-	
+3553	116	Disilane	74123	
+3554	172	Gallium contained in manufactured articles	-	
+3555	113	Trifluoromethyltetrazole-sodium salt in acetone	-	
+3556	147	Vehicle, lithium ion battery powered	-	
+3557	138	Vehicle, lithium metal battery powered	-	
+3558	147	Vehicle, sodium ion battery powered	-	
+3559	171	Fire suppressant dispersing devices	-	
+3560	153	Tetramethylammonium hydroxide aqueous solution with not less than 25% tetramethylammonium hydroxide	-	
+8000	171	Consumer commodity	-	
+9035	123	Gas identification set	-	
+9191	143	Chlorine dioxide, hydrate, frozen	62070	Water-reactive material (WR)
+9202	168	Carbon monoxide, refrigerated liquid (cryogenic liquid)	281	Toxic/poison by inhalation (TIH/PIH)
+9206	137	Methyl phosphonic dichloride	12671	Toxic/poison by inhalation (TIH/PIH)
+9260	169	Aluminum, molten	-	
+9263	156	Chloropivaloyl chloride	61345	Toxic/poison by inhalation (TIH/PIH)
+9264	151	3,5-Dichloro-2,4,6-trifluoropyridine	61273	Toxic/poison by inhalation (TIH/PIH)
+9269	132	Trimethoxysilane	17215	Toxic/poison by inhalation (TIH/PIH)
