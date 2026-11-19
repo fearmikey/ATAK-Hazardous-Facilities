@@ -54,11 +54,11 @@ Use the UN number to look up health effects and isolation/protective-action dist
 
 ## Using it in ATAK
 
-1. Download only the state files you need from [`kmz/`](kmz/), or all of them bundled together (still in separate files) from [`Releases/`]([/releases](https://github.com/fearmikey/ATAK-Hazardous-Facilities/releases))
+1. Download only the state files you need from [`kmz/`](kmz/), or all of them bundled together (still separate files) from [Releases](https://github.com/fearmikey/ATAK-Hazardous-Facilities/releases).
 2. In ATAK, open **Import Manager → Local SD** and select the `.kmz` or `.zip`, or copy it to `atak/import/`.
 3. Turn layers on and off under **Overlay Manager → File Overlays → *State name***.
 
-> ⚠️ **Don't import every state at once, or import a zip of them.** ATAK will freeze (ANR) trying to load ~27,000 pins. Load a few states at a time, or import the whole zip from [`Releases/`]([/releases](https://github.com/fearmikey/ATAK-Hazardous-Facilities/releases)).
+> ⚠️ **Don't import every state at once, or import a zip of them.** ATAK will freeze (ANR) trying to load ~27,000 pins. Load a few states at a time. If you download the zip from [Releases](https://github.com/fearmikey/ATAK-Hazardous-Facilities/releases), you should be able to simply import the whole zip file into ATAK.  
 
 Labels are hidden by default to keep ATAK responsive. Nuclear plants are the exception. Tap any pin to see its name and details.
 
